@@ -1,0 +1,754 @@
+company_name,link_company,linkedin,linkedin_employees,linkedin_followers,facebook,facebook_followers
+BlaBla Edtech,https://www.crunchbase.com/organization/blabla,https://www.linkedin.com/company/30605367,,,https://www.facebook.com/blabla.video,
+UrbanKisaan,https://www.crunchbase.com/organization/urbankisaan,https://www.linkedin.com/company/urbankisaan/,,,https://www.facebook.com/beanurbankisaan,
+Mozper,https://www.crunchbase.com/organization/mozper,https://www.linkedin.com/company/mozper/,,,https://www.facebook.com/mozper.br,
+Explo,https://www.crunchbase.com/organization/explo,https://www.linkedin.com/company/explo-co/,,,,0
+Depict,https://www.crunchbase.com/organization/depict-ai,https://www.linkedin.com/company/depict-ai/,,,,0
+Teleo,https://www.crunchbase.com/organization/teleo,https://www.linkedin.com/company/teleo-ai,,,,0
+Loop,https://www.crunchbase.com/organization/loop-health-edbc,https://www.linkedin.com/company/loop-health/,,,https://www.facebook.com/loophealthindia/,
+Rehook.ai,https://www.crunchbase.com/organization/rehook-ai,https://www.linkedin.com/company/rehookai,,,,0
+Milky Way AI,https://www.crunchbase.com/organization/milky-way-ai,https://www.linkedin.com/company/milkywayai,,,,0
+Laserfocus,https://www.crunchbase.com/organization/laserfocus,https://www.linkedin.com/company/laserfocus,,,,0
+HUBUC,https://www.crunchbase.com/organization/hubuc,https://www.linkedin.com/company/hubuc,,,,0
+Webiny,https://www.crunchbase.com/organization/webiny,https://www.linkedin.com/company/webiny/about/,,,,0
+Rivet,https://www.crunchbase.com/organization/rivet-d09f,https://www.linkedin.com/company/rivet-gg/,,,,0
+Daedalus,https://www.crunchbase.com/organization/daedalus-6017,https://www.linkedin.com/company/daedalus-de/,,,,0
+Arintra,https://www.crunchbase.com/organization/arintra,https://www.linkedin.com/company/arintra,,,https://www.facebook.com/ArintraHealth,
+Virtually,https://www.crunchbase.com/organization/virtually,https://www.linkedin.com/company/tryvirtually/,,,,0
+Bandit ML,https://www.crunchbase.com/organization/gradient-decision-making,https://www.linkedin.com/company/gradient-decision-making/,,,,0
+Monto,https://www.crunchbase.com/organization/monto,https://www.linkedin.com/company/monto-cajero-inteligente,,,https://www.facebook.com/monto.mx,
+Oto Health,https://www.crunchbase.com/organization/oto-4786,https://www.linkedin.com/company/otohealth/,,,https://www.facebook.com/ototinnitus,
+Carry,https://www.crunchbase.com/organization/carry-4a91,https://www.linkedin.com/company/carrytravel/,,,https://www.facebook.com/carrytravel/,
+Bego,https://www.crunchbase.com/organization/bego-5fd1,https://www.linkedin.com/company/begoapp/,,,https://www.facebook.com/begoapp/,
+Pulley,https://www.crunchbase.com/organization/pulley,https://www.linkedin.com/company/pulley-cap-table,,,,0
+Luminai,https://www.crunchbase.com/organization/digital-brain,https://www.linkedin.com/company/digitalbrain1/,,,,0
+Sameplan,https://www.crunchbase.com/organization/sameplan,https://www.linkedin.com/company/sameplan,,,,0
+Farcast,https://www.crunchbase.com/organization/utvate,https://www.linkedin.com/company/utvate/,,,,0
+Benepass,https://www.crunchbase.com/organization/benepass,https://www.linkedin.com/company/benepass,,,https://www.facebook.com/getbenepass,
+Ochre Bio,https://www.crunchbase.com/organization/ochre-bio,https://www.linkedin.com/company/ochre-bio,,,,0
+TrueNorth,https://www.crunchbase.com/organization/truenorth,https://www.linkedin.com/company/honestfreight/,,,https://www.facebook.com/truenorthfleet/,
+Duffl,https://www.crunchbase.com/organization/duffl,https://www.linkedin.com/company/dufflstores,,,https://www.facebook.com/dufflstores/,
+Jitsu,https://www.crunchbase.com/organization/jitsu,https://www.linkedin.com/company/jitsucom,,,,0
+Sakneen,https://www.crunchbase.com/organization/sakneen,https://www.linkedin.com/company/sakneen,,,https://www.facebook.com/sakneen/,
+Phonic,https://www.crunchbase.com/organization/phonic,https://www.linkedin.com/company/phonic-research,,,https://www.facebook.com/phonicresearch,
+Relate,https://www.crunchbase.com/organization/pixelic,https://www.linkedin.com/company/relate.so,,,,0
+Volopay,https://www.crunchbase.com/organization/volopay,https://www.linkedin.com/company/volopay/,,,https://www.facebook.com/volopay/,
+Zumo Labs,https://www.crunchbase.com/organization/zumo-labs,https://www.linkedin.com/company/zumolabs/,,,,0
+BuildStream,https://www.crunchbase.com/organization/buildstream,https://linkedin.com/company/buildstream1,,,,0
+Facio,https://www.crunchbase.com/organization/facio-b68a,https://www.linkedin.com/company/faciobeneficios/,,,,0
+BukuWarung,https://www.crunchbase.com/organization/bukuwarung,https://www.linkedin.com/company/bukuwarung,,,https://www.facebook.com/bukuwarung,
+Hent,https://www.crunchbase.com/organization/hent,https://www.linkedin.com/company/hentcredito/,,,https://www.facebook.com/hent.com.br,
+Cherry Recommends,https://www.crunchbase.com/organization/four2,https://www.linkedin.com/company/cherryrecommends,,,,0
+Nextmv,https://www.crunchbase.com/organization/nextmv,https://www.linkedin.com/company/nextmv,,,,0
+GuruHotel,https://www.crunchbase.com/organization/guruhotel,https://www.linkedin.com/company/guruhotel/,,,https://www.facebook.com/guruhotelmx/,
+onetool,https://www.crunchbase.com/organization/onetool,https://www.linkedin.com/company/onetool/about/,,,https://www.facebook.com/Onetool-448559075912384,
+Listle,https://www.crunchbase.com/organization/listle,https://www.linkedin.com/company/listle/,,,,0
+Hutsy,https://www.crunchbase.com/organization/hutsy,https://www.linkedin.com/company/hutsyhomes/,,,https://www.facebook.com/hutsyhomes,
+Fitia,https://www.crunchbase.com/organization/fitia,https://www.linkedin.com/company/fitia/,,,,0
+GIMO,https://www.crunchbase.com/organization/gimo,https://www.linkedin.com/company/gimojsc/,,,https://www.facebook.com/gimo.vn/,
+Revel,https://www.crunchbase.com/organization/revel-05d0,https://www.linkedin.com/company/revelgatherings/,,,https://www.facebook.com/revelgatherings,
+Jenfi,https://www.crunchbase.com/organization/jenfi,https://www.linkedin.com/company/jenfi,,,https://www.facebook.com/jenficapital,
+FamPay,https://www.crunchbase.com/organization/fampay,https://in.linkedin.com/company/fampay/,,,https://www.facebook.com/fampay.in/,
+Greywing,https://www.crunchbase.com/organization/greywing-28da,https://www.linkedin.com/company/greywing/,,,,0
+Disclo,https://www.crunchbase.com/organization/disclo,https://www.linkedin.com/company/disclo/,,,https://www.facebook.com/disclotime,
+PAYZE,https://www.crunchbase.com/organization/payze,https://www.linkedin.com/company/paymentsmadeeazy,,,https://www.facebook.com/payzegeo,
+Segmed,https://www.crunchbase.com/organization/segmed,https://www.linkedin.com/company/segmed-ai,,,,0
+Outtalent,https://www.crunchbase.com/organization/outtalent,https://www.linkedin.com/company/outtalent/,,,https://www.facebook.com/outtalent/,
+GradJoy,https://www.crunchbase.com/organization/gradjoy,https://www.linkedin.com/company/gradjoy,,,,0
+Matidor.com,https://www.crunchbase.com/organization/matidor,https://www.linkedin.com/company/matidorapp,,,https://www.facebook.com/matidorapp,
+Gamebytes,https://www.crunchbase.com/organization/fad-mania,https://www.linkedin.com/company/fadmania/,,,,0
+Moichor,https://www.crunchbase.com/organization/moichor,https://www.linkedin.com/company/moichor,,,https://www.facebook.com/Moichor1/,
+Courier,https://www.crunchbase.com/organization/try-courier,https://www.linkedin.com/company/trycourier,,,https://www.facebook.com/trycourier,
+Zingbus,https://www.crunchbase.com/organization/zingbus,https://in.linkedin.com/company/zingbus,,,https://www.facebook.com/zing.bus/,
+PowerUs,https://www.crunchbase.com/organization/electry,https://www.linkedin.com/company/power-us/,,,,0
+Memberstack,https://www.crunchbase.com/organization/memberstack,https://www.linkedin.com/company/memberstack,,,,0
+Bun,https://www.crunchbase.com/organization/oven,https://www.linkedin.com/company/ovensh,,,,0
+Mage App,https://www.crunchbase.com/organization/mage-market,https://www.linkedin.com/company/19039387/,,,https://facebook.com/magemarketHQ,
+Munily,https://www.crunchbase.com/organization/munily,https://www.linkedin.com/company/munilyapp/about/,,,https://www.facebook.com/munilyappp/,
+PayMongo,https://www.crunchbase.com/organization/paymongo,https://www.linkedin.com/company/paymongo,,,https://www.facebook.com/paymongo,
+Mystic,https://www.crunchbase.com/organization/neuro-ai,https://www.linkedin.com/company/mystic-ai/,,,,0
+GiveAway,https://www.crunchbase.com/organization/giveaway-189e,https://www.linkedin.com/company/giveawayglobal,,,https://web.facebook.com/giveawayby/,
+Calii,https://www.crunchbase.com/organization/calii,https://www.linkedin.com/company/calii/,,,https://www.facebook.com/caliiapp/,
+Text Blaze,https://www.crunchbase.com/organization/text-blaze,https://www.linkedin.com/company/19114105/,,,https://www.facebook.com/textblaze/,
+Digi-Prex,https://www.crunchbase.com/organization/digi-prex,https://www.linkedin.com/company/digi-prex/,,,https://www.facebook.com/Digi-Prex-2373617052875044/,
+Synder,https://www.crunchbase.com/organization/cloudbusiness,https://www.linkedin.com/company/synder,,,https://www.facebook.com/SynderHQ,
+SuperTokens,https://www.crunchbase.com/organization/supertokens,https://www.linkedin.com/company/supertokens/,,,https://www.facebook.com/SuperTokenss/,
+Clicoh,https://www.crunchbase.com/organization/clicoh,https://www.linkedin.com/company/clicoh/,,,https://www.facebook.com/clicoh/,
+Blair,https://www.crunchbase.com/organization/blair,https://www.linkedin.com/company/joinblair,,,https://www.facebook.com/joinblair/,
+Datasaur,https://www.crunchbase.com/organization/datasaur,https://www.linkedin.com/company/datasaur,,,https://www.facebook.com/DatasaurNLPLabeling,
+Hannah Life Technologies,https://www.crunchbase.com/organization/hannah-life-technologies,https://www.linkedin.com/company/hannah-life-technologies/,,,https://www.facebook.com/Hannah-Life-Technologies-112706386743198/,
+ElectroNeek,https://www.crunchbase.com/organization/electroneek,https://www.linkedin.com/company/electroneek/,,,https://www.facebook.com/ELECTRONEEKRPA/,
+Zelos Gaming,https://www.crunchbase.com/organization/zelos-gaming-inc,https://www.linkedin.com/company/zelos-gaming-inc,,,https://www.facebook.com/winzelos/,
+BotCity,https://www.crunchbase.com/organization/botcity-ce94,https://www.linkedin.com/company/botcity,,,,0
+COUTURME,https://www.crunchbase.com/organization/couturme,https://www.linkedin.com/in/yuliya-raquel/,,,https://www.facebook.com/yuliyaraquelbrand/,
+Cyble,https://www.crunchbase.com/organization/cyble,https://www.linkedin.com/company/cyble-global,,,https://www.facebook.com/cybleau,
+Dover,https://www.crunchbase.com/organization/dover-37be,https://www.linkedin.com/company/doverhq,,,https://www.facebook.com/doverhq/,
+Rainbow,https://www.crunchbase.com/organization/rainbow-ddab,https://www.linkedin.com/company/rainbowdotme,,,,0
+Living Carbon,https://www.crunchbase.com/organization/living-carbon,https://www.linkedin.com/company/living-carbon,,,,0
+Alloy Automation,https://www.crunchbase.com/organization/alloy-automation,https://www.linkedin.com/company/alloy-automation,,,https://www.facebook.com/AlloyAutomation,
+Rosebud AI,https://www.crunchbase.com/organization/rosebud-ai,https://www.linkedin.com/company/rosebud-ai,,,,0
+Replicate,https://www.crunchbase.com/organization/replicate,https://www.linkedin.com/company/replicate,,,,0
+Daybreak Health,https://www.crunchbase.com/organization/daybreak-health,https://www.linkedin.com/company/daybreak-health,,,https://www.facebook.com/Daybreak-Health-106900667773117,
+Ello,https://www.crunchbase.com/organization/trustle,https://www.linkedin.com/company/elloinc,,,https://www.facebook.com/trustle,
+Parker,https://www.crunchbase.com/organization/parker-570c,https://www.linkedin.com/company/getparker,,,,0
+Freshpaint,https://www.crunchbase.com/organization/freshpaint,https://www.linkedin.com/company/freshpaint-data,,,,0
+Phoenix Health,https://www.crunchbase.com/organization/phoenix-310f,https://www.linkedin.com/company/phoenix-health-canada,,,https://www.facebook.com/risewithphoenix,
+Landed_1,https://www.crunchbase.com/organization/landed-11de,https://www.linkedin.com/company/gotlanded/about/,,,https://www.facebook.com/gotlanded,
+Beacons,https://www.crunchbase.com/organization/beacons-ai,https://www.linkedin.com/company/beacons-ai,,,https://www.facebook.com/beaconsai,
+Photoroom,https://www.crunchbase.com/organization/photoroom,https://www.linkedin.com/company/photoroom,,,https://www.facebook.com/PhotoRoom-105863290980747,
+Armilla AI,https://www.crunchbase.com/organization/armilla-ai,https://www.linkedin.com/company/armilla-ai,,,,0
+Ajaib,https://www.crunchbase.com/organization/ajaib,https://www.linkedin.com/company/ajaib-id,,,https://www.facebook.com/ajaib.investasi,
+Shiru,https://www.crunchbase.com/organization/shiru,https://www.linkedin.com/company/shiru-inc/,,,,0
+Toolbox,https://www.crunchbase.com/organization/toolbox-d57b,https://www.linkedin.com/company/mytoolbox-co/,,,https://www.facebook.com/trytoolbox,
+Kraftful,https://www.crunchbase.com/organization/kraftful,https://www.linkedin.com/company/kraftful,,,https://www.facebook.com/Kraftful,
+Lightly,https://www.crunchbase.com/organization/mirage,https://www.linkedin.com/company/mirage-tech,,,https://www.facebook.com/pg/LightlyAI,
+Ramen VR,https://www.crunchbase.com/organization/ramen-vr,https://www.linkedin.com/company/ramen-vr,,,,0
+Deepnote,https://www.crunchbase.com/organization/deepnote,https://www.linkedin.com/company/deepnote/,,,https://www.facebook.com/deepnoteHQ/,
+Rutter,https://www.crunchbase.com/organization/rutter-1560,https://www.linkedin.com/company/rutter,,,,0
+UserGems,https://www.crunchbase.com/organization/usergems,https://www.linkedin.com/company/usergems/,,,https://www.facebook.com/usergems/,
+Synapticure,https://www.crunchbase.com/organization/synapticure,https://www.linkedin.com/company/synapticure-inc/,,,,0
+Eclipse Foods,https://www.crunchbase.com/organization/eclipse-foods,https://www.linkedin.com/company/eclipse-foods,,,https://www.facebook.com/eclipsefoodsco,
+Ophelia,https://www.crunchbase.com/organization/ophelia,https://www.linkedin.com/company/meetophelia/,,,https://www.facebook.com/opheliahealth/,
+Gaiascope,https://www.crunchbase.com/organization/gaiascope,https://www.linkedin.com/company/gaiascope,,,,0
+Nomic,https://www.crunchbase.com/organization/nplex-biosciences,https://www.linkedin.com/company/nomicbio,,,,0
+Turing Labs,https://www.crunchbase.com/organization/turing-labs-inc,https://www.linkedin.com/company/turing-labs-inc/,,,,0
+ditto,https://www.crunchbase.com/organization/ditto-8d66,https://www.linkedin.com/company/ditto-app,,,,0
+Laudable,https://www.crunchbase.com/organization/laudable-02aa,https://www.linkedin.com/company/getlaudable,,,https://www.facebook.com/getlaudable,
+Juicy Marbles,https://www.crunchbase.com/organization/juicy-marbles,https://www.linkedin.com/company/juicymarbles/,,,https://www.facebook.com/juicymarbles/,
+Spenmo,https://www.crunchbase.com/organization/spenmo,https://www.linkedin.com/company/spenmo/,,,https://www.facebook.com/Spenmosingapore,
+Atomic Industries,https://www.crunchbase.com/organization/atomic-industries,https://www.linkedin.com/company/atomicindustries,,,,0
+Multiverse,https://www.crunchbase.com/organization/multiverse-adb5,https://www.linkedin.com/company/multiversegames,,,https://www.facebook.com/playmultiverse/,
+Zitara Technologies,https://www.crunchbase.com/organization/zitara-technologies,https://www.linkedin.com/company/zitara-technologies,,,,0
+Keeper_2,https://www.crunchbase.com/organization/keeper-tax,https://www.linkedin.com/company/keeper-tax,,,https://www.facebook.com/keepertax,
+Gaiia,https://www.crunchbase.com/organization/gaiia,https://www.linkedin.com/company/gaiiasoftware,,,,0
+Compound,https://www.crunchbase.com/organization/compound-financial,https://www.linkedin.com/company/withcompound,,,,0
+Dripos,https://www.crunchbase.com/organization/drip-650c,https://www.linkedin.com/company/drippos,,,,0
+PowerX,https://www.crunchbase.com/organization/powerx,https://www.linkedin.com/company/powerx,,,https://www.facebook.com/PowerXSolutions,
+Ruth Health,https://www.crunchbase.com/organization/ruth-health,https://www.linkedin.com/company/ruthhealth,,,https://www.facebook.com/ruthhealthco,
+CarbonChain,https://www.crunchbase.com/organization/carbonchain-io,https://www.linkedin.com/company/carbon-chain-uk/,,,https://www.facebook.com/carbonchainuk,
+Zippi,https://www.crunchbase.com/organization/zippi,https://www.linkedin.com/company/vaizippi/,,,https://www.facebook.com/souzippi/,
+Treble.ai,https://www.crunchbase.com/organization/treble-ai,https://www.linkedin.com/company/treble-ai,,,,0
+General Proximity,https://www.crunchbase.com/organization/general-proximity-650b,https://www.linkedin.com/company/generalproximity,,,,0
+Female Invest,https://www.crunchbase.com/organization/female-invest,https://www.linkedin.com/company/female-invest,,,https://www.facebook.com/FemaleInvest,
+WhiteLab Genomics,https://www.crunchbase.com/organization/whitelab-genomics,https://www.linkedin.com/company/whitelabgenomics,,,https://www.facebook.com/whitelabgenomics,
+Gotrade,https://www.crunchbase.com/organization/gotrade,https://www.linkedin.com/company/gotradeapp,,,https://www.facebook.com/heygotrade,
+Coperniq Inc.,https://www.crunchbase.com/organization/coperniq,https://www.linkedin.com/company/coperniq,,,https://www.facebook.com/Coperniq,
+Karat Financial,https://www.crunchbase.com/organization/karat-f5a7,https://www.linkedin.com/company/trykarat,,,,0
+1build,https://www.crunchbase.com/organization/1build,https://www.linkedin.com/company/1build/,,,https://www.facebook.com/hello1build/,
+Elpha,https://www.crunchbase.com/organization/elpha,https://www.linkedin.com/company/joinelpha,,,,0
+Okay,https://www.crunchbase.com/organization/okay,https://www.linkedin.com/company/okayhq,,,,0
+goDutch,https://www.crunchbase.com/organization/godutch-a6ef,https://www.linkedin.com/company/godutchpay,,,https://www.facebook.com/goDutchPay,
+GitStart,https://www.crunchbase.com/organization/murcul,https://www.linkedin.com/company/gitstarthq,,,http://facebook.com/GitStartHQ,
+Curacel,https://www.crunchbase.com/organization/curacel,https://www.linkedin.com/company/curacel/,,,https://www.facebook.com/curacelai,
+Dex_2,https://www.crunchbase.com/organization/dex-0c0e,https://www.linkedin.com/company/getdex,,,https://www.facebook.com/dexprm,
+Potion,https://www.crunchbase.com/organization/potion-ai,https://www.linkedin.com/company/potionai,,,,0
+Heroic Story,https://www.crunchbase.com/organization/heroic-story,https://www.linkedin.com/company/heroic-story/,,,,0
+Resquared,https://www.crunchbase.com/organization/resquared,http://linkedin.com/company/resquared,,,,0
+Reflect,https://www.crunchbase.com/organization/reflect-42d0,https://www.linkedin.com/company/runreflect,,,,0
+GroMo,https://www.crunchbase.com/organization/gromo,https://www.linkedin.com/company/gromofintech/,,,https://www.facebook.com/gromofintech/,
+Warmly,https://www.crunchbase.com/organization/warmly,https://www.linkedin.com/company/warmly-comma,,,https://www.facebook.com/WarmlyComma,
+AntWalk,https://www.crunchbase.com/organization/antwak-fa07,https://www.linkedin.com/school/antwalk,,,https://www.facebook.com/AntWakDM,
+Kingdom Supercultures,https://www.crunchbase.com/organization/kingdomsupercultures,https://www.linkedin.com/company/kingdom-supercultures/,,,,0
+Mailwarm,https://www.crunchbase.com/organization/mailwarm,,0,0,https://www.facebook.com/Mailwarm-102161834695215,
+Current Foods,https://www.crunchbase.com/organization/kuleana-inc,https://www.linkedin.com/company/kuleanafood,,,https://www.facebook.com/kuleana.seafood,
+Akiflow,https://www.crunchbase.com/organization/akiflow,https://www.linkedin.com/company/akiflow,,,https://www.facebook.com/pg/AkiflowApp/,
+Multis,https://www.crunchbase.com/organization/multis,https://www.linkedin.com/company/13991256,,,,0
+Coderhouse,https://www.crunchbase.com/organization/coderhouse,https://www.linkedin.com/company/coderhouse,,,https://www.facebook.com/coderhouse,
+Matter,https://www.crunchbase.com/organization/matter-ec5e,https://www.linkedin.com/company/getmatterapp,,,,0
+Unflow,https://www.crunchbase.com/organization/quorum-92a9,https://www.linkedin.com/company/monaru/,,,,0
+Vendr,https://www.crunchbase.com/organization/vendr,https://www.linkedin.com/company/vendr-co,,,https://www.facebook.com/savewithvendr,
+BuildBuddy,https://www.crunchbase.com/organization/buildbuddy,https://www.linkedin.com/company/buildbuddy,,,https://www.facebook.com/buildbuddy.io/,
+Brite Benefits,https://www.crunchbase.com/organization/brite-benefits,https://www.linkedin.com/company/getbritehr,,,,0
+MedMe Health,https://www.crunchbase.com/organization/medme-health,https://www.linkedin.com/company/medme-health,,,https://www.facebook.com/medmehealth/,
+Factored Quality,https://www.crunchbase.com/organization/factored-quality,https://www.linkedin.com/company/factored-quality/,,,,0
+Verihubs,https://www.crunchbase.com/organization/verihubs,https://www.linkedin.com/company/verihubs,,,https://www.facebook.com/VERIHUBS,
+NavTrac,https://www.crunchbase.com/organization/navtrac,https://www.linkedin.com/company/navtrac,,,https://www.facebook.com/navtracai,
+Lume Health,https://www.crunchbase.com/organization/lume-health,https://www.linkedin.com/company/lume-health/,,,,0
+MindPortal,https://www.crunchbase.com/organization/mindportal,https://www.linkedin.com/company/mindportal/,,,,0
+mello,https://www.crunchbase.com/organization/mello,https://www.linkedin.com/company/itsmello,,,,0
+Archbee,https://www.crunchbase.com/organization/archbee,https://www.linkedin.com/company/archbee,,,https://www.facebook.com/archbeehq,
+Quota Lab,https://www.crunchbase.com/organization/quota-lab,https://www.linkedin.com/company/quotalab,,,,0
+Avawatz,https://www.crunchbase.com/organization/avawatz,https://www.linkedin.com/company/avawatz,,,https://www.facebook.com/Avawatz-104116278846445,
+Fair Square Medicare,https://www.crunchbase.com/organization/fair-square-medicare,,0,0,https://www.facebook.com/Fair-Square-Medicare-101215091620166/,
+Nomod,https://www.crunchbase.com/organization/nomod,https://www.linkedin.com/company/nomod/,,,,0
+Polytomic,https://www.crunchbase.com/organization/polytomic,https://www.linkedin.com/company/polytomic/,,,,0
+Ardis AI,https://www.crunchbase.com/organization/ardis-ai,https://www.linkedin.com/company/ardis-ai/,,,,0
+Synapsica,https://www.crunchbase.com/organization/synapsica,https://www.linkedin.com/company/synapsica/,,,https://www.facebook.com/SynapsicaAI/,
+Roboflow,https://www.crunchbase.com/organization/roboflow,https://www.linkedin.com/company/roboflow-ai/,,,,0
+Kurios,https://www.crunchbase.com/organization/kurios-technologies,https://www.linkedin.com/school/kurios-la,,,https://www.facebook.com/kurios.la,
+Altay Therapeutics,https://www.crunchbase.com/organization/altay-therapeutics,,0,0,,0
+GoBuild (fka Brick),https://www.crunchbase.com/organization/brick,https://www.linkedin.com/company/gobuild-construction/,,,,0
+Shef,https://www.crunchbase.com/organization/shef,https://www.linkedin.com/company/ordershef,,,https://www.facebook.com/ordershef,
+Insight Browser,https://www.crunchbase.com/organization/lumos-6f11,,0,0,,0
+Zeit Medical,https://www.crunchbase.com/organization/zeit-medical,https://www.linkedin.com/company/zeitmedical,,,https://www.facebook.com/zeitmed,
+Million Marker,https://www.crunchbase.com/organization/million-marker,https://www.linkedin.com/company/million-marker/,,,,0
+NextPay,https://www.crunchbase.com/organization/nextpay-3f8a,https://www.linkedin.com/company/nextpayph/about/,,,,0
+SubscriptionFlow,https://www.crunchbase.com/organization/subscriptionflow,https://www.linkedin.com/company/subscription-flow,,,https://www.facebook.com/SubscriptionFlow,
+Alude,https://www.crunchbase.com/organization/alude,https://www.linkedin.com/company/aludealugueldescomplicado/,,,,0
+ContaLink,https://www.crunchbase.com/organization/contalink,https://www.linkedin.com/company/contalink/about/,,,https://www.facebook.com/contalink/,
+Artifact_2,https://www.crunchbase.com/organization/artifact-191c,https://www.linkedin.com/company/heyartifact/,,,https://www.facebook.com/artifactpersonalpodcasts,
+Mable (Neurolytic Healthcare),https://www.crunchbase.com/organization/neurolytic-healthcare,https://www.linkedin.com/company/mable-health/,,,https://m.facebook.com/mablehealth/,
+Able Jobs,https://www.crunchbase.com/organization/able-jobs,https://www.linkedin.com/company/ablejobs/,,,,0
+Prospa,https://www.crunchbase.com/organization/prospa-60e4,https://www.linkedin.com/company/prospabank/,,,https://www.facebook.com/getprospa,
+Nestybox,https://www.crunchbase.com/organization/nestybox,https://www.linkedin.com/company/nestybox,,,,0
+Pylons,https://www.crunchbase.com/organization/pylons,https://www.linkedin.com/company/pylons/,,,,0
+Modern Village,https://www.crunchbase.com/organization/modern-village,,0,0,,0
+taxProper,https://www.crunchbase.com/organization/taxproper,https://www.linkedin.com/company/taxproper/,,,https://www.facebook.com/taxProper/,
+Slapdash,https://www.crunchbase.com/organization/slapdash-app,https://www.linkedin.com/company/slapdashapp,,,,0
+Nomad Rides,https://www.crunchbase.com/organization/nomad-7453,https://www.linkedin.com/company/nomadrides,,,https://www.facebook.com/nomadRides1150,
+Farm Theory,https://www.crunchbase.com/organization/farm-theory,https://www.linkedin.com/company/farmtheory/,,,,0
+Fancy,https://www.crunchbase.com/organization/fancy-9775,https://www.linkedin.com/company/fancy-app/,,,https://www.facebook.com/fancysnacksapp,
+Encuadrado,https://www.crunchbase.com/organization/encuadrado,https://www.linkedin.com/company/encuadrado,,,https://www.facebook.com/soyencuadrado,
+Kitchenful,https://www.crunchbase.com/organization/kitchenful,https://www.linkedin.com/company/kitchenful,,,https://www.facebook.com/kitchenful,
+Hoss,https://www.crunchbase.com/organization/hoss-7a2e,https://www.linkedin.com/company/hossapp/,,,,0
+Rinsed,https://www.crunchbase.com/organization/rinsed-55f5,https://www.linkedin.com/company/rinsed,,,,0
+Preclusio,https://www.crunchbase.com/organization/preclusio,https://www.linkedin.com/company/preclusio/,,,,0
+Omni,https://www.crunchbase.com/organization/omni-5e86,https://www.linkedin.com/company/addomni/,,,,0
+Adyn,https://www.crunchbase.com/organization/adyn,https://www.linkedin.com/company/adyn/,,,https://www.facebook.com/adynhealth,
+Cuboh,https://www.crunchbase.com/organization/cuboh,https://www.linkedin.com/company/getcuboh/,,,https://www.facebook.com/pg/getcuboh/,
+Revolve Surgical,https://www.crunchbase.com/organization/revolve-surgical-inc,https://www.linkedin.com/company/revolve-surgical,,,,0
+Nara,https://www.crunchbase.com/organization/nara-8b6e,https://www.linkedin.com/company/naraai,,,,0
+Orderli,https://www.crunchbase.com/organization/orderli,https://www.linkedin.com/company/orderli,,,https://www.facebook.com/Orderli.nl,
+HireSure,https://www.crunchbase.com/organization/hiresure,https://www.linkedin.com/company/hiresure/,,,,0
+Sytex,https://www.crunchbase.com/organization/sytex,https://www.linkedin.com/company/sytexpm,,,https://www.facebook.com/Sytexio-339786256719204,
+StowNest Storage,https://www.crunchbase.com/organization/stownest-storage,https://www.linkedin.com/company/stownest-storage,,,https://www.facebook.com/stownest,
+Mightyapp,https://www.crunchbase.com/organization/mightyapp,,0,0,,0
+Dive Health,https://www.crunchbase.com/organization/dive-health,https://www.linkedin.com/company/dive-health,,,https://www.facebook.com/divehealth,
+Refinery,https://www.crunchbase.com/organization/refinery,https://www.linkedin.com/company/refinery/,,,https://www.facebook.com/refinery.io/,
+PeopleCQ,https://www.crunchbase.com/organization/peoplecq,https://www.linkedin.com/company/peoplecq/,,,https://www.facebook.com/profile.php?id=61554153965728,
+Vori,https://www.crunchbase.com/organization/vori,https://www.linkedin.com/company/vori/,,,,0
+Hey Healthcare,https://www.crunchbase.com/organization/hey-healthcare,https://www.linkedin.com/company/hey-healthcare/about/,,,,0
+Hermes Robotics,https://www.crunchbase.com/organization/hermes-robotics,https://www.linkedin.com/company/hermes-robotics/about/,,,,0
+Release,https://www.crunchbase.com/organization/release,https://www.linkedin.com/company/releaseapp/,,,,0
+Platypus,https://www.crunchbase.com/organization/platypus-aaf4,https://www.linkedin.com/company/getplatypus/,,,,0
+Sendo,https://www.crunchbase.com/organization/sendo-1ef7,https://www.linkedin.com/company/sendo-sms/,,,,0
+Kern Systems,https://www.crunchbase.com/organization/kern-systems,https://www.linkedin.com/company/kern-systems,,,,0
+Once App,https://www.crunchbase.com/organization/once-app,https://www.linkedin.com/company/oncedotapp/,,,https://www.facebook.com/oncedotapp,
+ZipSchool,https://www.crunchbase.com/organization/zipschool,,0,0,https://www.facebook.com/zipschooling,
+GreenTiger,https://www.crunchbase.com/organization/greentiger,https://linkedin.com/company/greentigerai,,,https://www.facebook.com/greentigerapp/,
+Cradle,https://www.crunchbase.com/organization/cradle-aef2,,0,0,,0
+Jamiphy,https://www.crunchbase.com/organization/jamiphy,https://www.linkedin.com/company/jamiphy/,,,https://www.facebook.com/Jamiphy/,
+Endla,https://www.crunchbase.com/organization/endla,https://www.linkedin.com/company/endla,,,,0
+Sidekick,https://www.crunchbase.com/organization/sidekick-c880,https://www.linkedin.com/company/sidekickvideo,,,,0
+Tandem,https://www.crunchbase.com/organization/tandem-214b,,0,0,,0
+Mudafy,https://www.crunchbase.com/organization/mudafy,https://www.linkedin.com/company/mudafy/,,,https://www.facebook.com/mudafyAr/,
+Levo,https://www.crunchbase.com/organization/levo-5a7b,https://www.linkedin.com/company/levomx,,,https://www.facebook.com/levofintech,
+Ladder,https://www.crunchbase.com/organization/ladder-3c47,https://www.linkedin.com/company/meetladder/,,,https://www.facebook.com/meetladder/,
+Clew,https://www.crunchbase.com/organization/clew-0eeb,https://www.linkedin.com/company/clewhq/,,,,0
+Rume,https://www.crunchbase.com/organization/rume-a4c3,https://www.linkedin.com/company/lumesocial/,,,,0
+Dockup,https://www.crunchbase.com/organization/dockup,https://www.linkedin.com/company/dockup,,,,0
+Heru,https://www.crunchbase.com/organization/heru,https://www.linkedin.com/company/somosheru,,,https://www.facebook.com/somosheru,
+Life Sciences Key Technologies,https://www.crunchbase.com/organization/life-sciences-key-technologies-lsk,https://www.linkedin.com/company/lifesci-key/,,,,0
+Nonu Care,https://www.crunchbase.com/organization/nonu-care,https://www.linkedin.com/company/nonu-care/,,,https://www.facebook.com/NonuCare/,
+Castodia,https://www.crunchbase.com/organization/castodia,https://www.linkedin.com/company/castodiahq,,,https://www.facebook.com/CastodiaHQ,
+Playmaker,https://www.crunchbase.com/organization/playmaker-fec7,https://www.linkedin.com/company/getplaymaker/,,,,0
+Gold Fig Labs,https://www.crunchbase.com/organization/gold-fig-labs,https://www.linkedin.com/company/goldfiglabs,,,https://www.facebook.com/goldfiglabs,
+Chutney,https://www.crunchbase.com/organization/chutney-17bc,https://www.linkedin.com/company/chutneystore,,,https://www.facebook.com/chutneystore,
+Metacode,https://www.crunchbase.com/organization/metacode,https://www.linkedin.com/company/metacodeapp,,,,0
+Plunzo,https://www.crunchbase.com/organization/plunzo,https://www.linkedin.com/company/plunzo/,,,,0
+Dashblock,https://www.crunchbase.com/organization/dashblock,https://www.linkedin.com/company/dashblock,,,https://www.facebook.com/DashblockHQ,
+Nototo,https://www.crunchbase.com/organization/nototo,,0,0,https://www.facebook.com/nototoapp,
+Plum Mail,https://www.crunchbase.com/organization/plummail,,0,0,,0
+OpenUnit,https://www.crunchbase.com/organization/openunit,https://www.linkedin.com/company/openunit,,,,0
+Bikry,https://www.crunchbase.com/organization/nearpe,https://www.linkedin.com/company/bikryapp/,,,https://www.facebook.com/bikryapp,
+Keynua,https://www.crunchbase.com/organization/keynua,https://www.linkedin.com/company/keynua/,,,https://www.facebook.com/keynuainc,
+Middesk,https://www.crunchbase.com/organization/middesk,https://www.linkedin.com/company/middesk/,,,https://www.facebook.com/middesk,
+Filadd,https://www.crunchbase.com/organization/filadd,https://www.linkedin.com/company/filadd,,,https://www.facebook.com/filaddco,
+Freterium,https://www.crunchbase.com/organization/freterium,https://www.linkedin.com/company/freterium/,,,,0
+Pachama,https://www.crunchbase.com/organization/pachama,https://www.linkedin.com/company/pachama,,,,0
+Supernova.io,https://www.crunchbase.com/organization/supernova-technology-ltd,https://www.linkedin.com/company/supernova-io,,,,0
+Windwalk Games,https://www.crunchbase.com/organization/windwalk-games-enemy-on-board,https://www.linkedin.com/company/windwalkgames/,,,,0
+RoboTire,https://www.crunchbase.com/organization/robotire,https://www.linkedin.com/company/robotire,,,,0
+Arist,https://www.crunchbase.com/organization/arist,https://www.linkedin.com/company/aristu,,,https://www.facebook.com/LearnArist,
+Justo,https://www.crunchbase.com/organization/get-justo,https://www.linkedin.com/company/getjusto/,,,https://www.facebook.com/Getjusto/,
+AI Insurance,https://www.crunchbase.com/organization/ai-insurance,https://www.linkedin.com/company/a-i-insurance-inc/,,,,0
+HyperTrader,https://www.crunchbase.com/organization/hyperlinq,https://www.linkedin.com/company/hypertrader,,,,0
+Qwest (YC W19),https://www.crunchbase.com/organization/qwst,,0,0,,0
+Klir,https://www.crunchbase.com/organization/klir-09a0,https://www.linkedin.com/company/klir,,,https://www.facebook.com/pg/klirteam/,
+Houm,https://www.crunchbase.com/organization/houm-group-inc,https://www.linkedin.com/company/houm-com/about/,,,,0
+Akute Health,https://www.crunchbase.com/organization/akute-health,https://www.linkedin.com/company/akute-health,,,https://www.facebook.com/AkuteHealth,
+Recurrency,https://www.crunchbase.com/organization/recurrency-ai,https://www.linkedin.com/company/recurrency,,,https://www.facebook.com/recurrency,
+Fondeadora,https://www.crunchbase.com/organization/fondeadora,http://www.linkedin.com/company/fondeadora,,,http://www.facebook.com/FondeadoraMx,
+Intersect Labs,https://www.crunchbase.com/organization/intersect-labs,https://www.linkedin.com/company/intersect-labs-io/,,,https://www.facebook.com/Intersect-Labs-190441321857054/,
+Stark Bank,https://www.crunchbase.com/organization/starkbank,https://www.linkedin.com/company/starkbank,,,https://www.facebook.com/starkbank,
+Okteto,https://www.crunchbase.com/organization/okteto,https://www.linkedin.com/company/okteto,,,,0
+Global Belly,https://www.crunchbase.com/organization/global-belly,https://www.linkedin.com/company/globalbelly/,,,https://www.facebook.com/globalbelly,
+Tyltgo,https://www.crunchbase.com/organization/tyltgo,https://www.linkedin.com/company/tyltgo,,,https://www.facebook.com/pg/Tyltgo,
+Taiv,https://www.crunchbase.com/organization/taiv,https://www.linkedin.com/company/taivbox,,,https://www.facebook.com/taivbox/,
+Kinside,https://www.crunchbase.com/organization/kinside,https://www.linkedin.com/company/kinside/,,,https://www.facebook.com/getKinside,
+Prodigal,https://www.crunchbase.com/organization/prodigal-3824,https://www.linkedin.com/company/prodigaltech,,,https://www.facebook.com/prodigalai,
+Ansa Biotechnologies,https://www.crunchbase.com/organization/ansa-biotechnologies,https://www.linkedin.com/company/ansabio/,,,,0
+spotLESS Materials,https://www.crunchbase.com/organization/spotless-materials,https://www.linkedin.com/company/spotless-materials,,,https://www.facebook.com/spotless.materials,
+FLOWER CO,https://www.crunchbase.com/organization/flower-company,https://www.linkedin.com/company/flower-company-cannabis/,,,http://facebook.com/FLOWERC0,
+Oxygen,https://www.crunchbase.com/organization/oxygen-5cc0,https://www.linkedin.com/company/getoxygen/,,,https://www.facebook.com/oxygenbanking/,
+Jet Admin,https://www.crunchbase.com/organization/jet-admin,https://www.linkedin.com/company/jet-admin/,,,https://www.facebook.com/jetadmin.io,
+Arengu,https://www.crunchbase.com/organization/arengu,https://www.linkedin.com/company/arengu,,,,0
+SPATE,https://www.crunchbase.com/organization/spate,https://www.linkedin.com/company/spatenyc/,,,,0
+Adventurous Co,https://www.crunchbase.com/organization/adventurous-co,,0,0,https://www.facebook.com/adventurousco,
+Career Karma,https://www.crunchbase.com/organization/career-karma,https://www.linkedin.com/company/career-karma-app,,,https://www.facebook.com/CareerKarmaApp,
+Localyze,https://www.crunchbase.com/organization/localyze,https://www.linkedin.com/company/localyze/,,,https://www.facebook.com/localyze.me/,
+Skill Lync,https://www.crunchbase.com/organization/skill-lync,https://www.linkedin.com/company/skill-lync,,,https://www.facebook.com/edxengine,
+Goodly,https://www.crunchbase.com/organization/goodly,https://www.linkedin.com/company/goodlyapp/,,,https://business.facebook.com/GoodlyBenefit,
+Culdesac,https://www.crunchbase.com/organization/culdesac-f070,https://www.linkedin.com/company/liveculdesac/,,,https://www.facebook.com/pg/LiveCuldesac/,
+Coinrule,https://www.crunchbase.com/organization/coinrule,https://www.linkedin.com/company/coinrule,,,https://www.facebook.com/CoinruleHQ,
+Mindset Health,https://www.crunchbase.com/organization/mindset-e7e8,https://www.linkedin.com/company/mindsethealth,,,,0
+Future Fields,https://www.crunchbase.com/organization/future-fields,https://www.linkedin.com/company/future-fields/,,,,0
+Kunduz,https://www.crunchbase.com/organization/kunduz,https://www.linkedin.com/company/kunduz/,,,https://www.facebook.com/kunduzasor,
+Rebank,https://www.crunchbase.com/organization/rebank,https://www.linkedin.com/company/rebanknow,,,https://www.facebook.com/rebanknow/,
+Delphia,https://www.crunchbase.com/organization/delphia,https://www.linkedin.com/company/delphia-ai,,,https://www.facebook.com/delphiaAI,
+TRM Labs,https://www.crunchbase.com/organization/trm-labs,https://www.linkedin.com/company/trmlabs,,,https://www.facebook.com/trmlabs/,
+Mutiny,https://www.crunchbase.com/organization/mutinyhq,https://www.linkedin.com/company/mutinyhq,,,https://www.facebook.com/mutinylovesyou,
+Heart Aerospace,https://www.crunchbase.com/organization/heart-aerospace,https://www.linkedin.com/company/heart-aerospace/,,,https://www.facebook.com/heartaerospace/,
+Searchlight,https://www.crunchbase.com/organization/searchlight-057a,https://www.linkedin.com/company/searchlight-technologies/,,,https://www.facebook.com/searchlightai,
+Nuvocargo,https://www.crunchbase.com/organization/Nuvocargo,https://www.linkedin.com/company/nuvocargo/,,,https://www.facebook.com/nuvocargo/,
+BrioHR,https://www.crunchbase.com/organization/briohr,https://www.linkedin.com/company/briohr,,,https://www.facebook.com/briohr/,
+Mobot,https://www.crunchbase.com/organization/team-mobot,https://www.linkedin.com/company/team-mobot/,,,https://www.facebook.com/MobotQA/,
+Activeloop,https://www.crunchbase.com/organization/snark-ai,https://www.linkedin.com/company/activeloop,,,https://www.facebook.com/activeloopai,
+Zeal,https://www.crunchbase.com/organization/puzzl,https://www.linkedin.com/company/zealdotcom,,,,0
+BlueCargo,https://www.crunchbase.com/organization/bluecargo,https://www.linkedin.com/company/bluecargo/,,,,0
+RTHM,https://www.crunchbase.com/organization/rthm,https://www.linkedin.com/company/rthm,,,https://www.facebook.com/HealthRTHM,
+Howdy,https://www.crunchbase.com/organization/hurrayforhowdy,https://www.linkedin.com/company/hurrayforhowdy,,,https://www.facebook.com/hurrayforhowdy,
+Honeylove,https://www.crunchbase.com/organization/honeylove,https://www.linkedin.com/company/honeylove-sculptware/,,,http://facebook.com/gethoneylove,
+rct AI,https://www.crunchbase.com/organization/rct-ai,https://www.linkedin.com/company/rct-ai,,,,0
+Wanderlog,https://www.crunchbase.com/organization/travelchime,https://www.linkedin.com/company/wanderlog,,,https://www.facebook.com/GoWanderlog/,
+Mighty Health,https://www.crunchbase.com/organization/mighty-health-4f22,https://www.linkedin.com/company/mightyhealth,,,https://www.facebook.com/mightyhealthapp/,
+Bot MD,https://www.crunchbase.com/organization/botmd,https://www.linkedin.com/company/botmd,,,https://www.facebook.com/botmdio,
+Tenderd,https://www.crunchbase.com/organization/tenderd,https://www.linkedin.com/company/tenderd/,,,https://www.facebook.com/tenderdtrack,
+Overview.ai,https://www.crunchbase.com/organization/overview-ai,https://www.linkedin.com/company/overview-ai/,,,,0
+Dagger,https://www.crunchbase.com/organization/dagger-d500,https://www.linkedin.com/company/dagger-io,,,,0
+Feather_2,https://www.crunchbase.com/organization/popsure,https://www.linkedin.com/company/feather-insurance,,,https://www.facebook.com/featherinsurance,
+Flockjay,https://www.crunchbase.com/organization/flockjay,https://www.linkedin.com/company/flockjay/,,,https://facebook.com/flockjayschool,
+Lowkey,https://www.crunchbase.com/organization/lowkey-2a15,https://www.linkedin.com/company/camelot-ai,,,https://www.facebook.com/lowkeydotgg/,
+Spero Foods,https://www.crunchbase.com/organization/spero-foods-los-angeles-california,https://www.linkedin.com/company/spero-foods/,,,,0
+Truora,https://www.crunchbase.com/organization/truora,https://www.linkedin.com/company/truora/,,,https://es-la.facebook.com/truora/,
+Lokal,https://www.crunchbase.com/organization/lokal,https://www.linkedin.com/company/lokal-app,,,https://www.facebook.com/pg/lokalapp,
+Endpoint Health,https://www.crunchbase.com/organization/endpoint-health-inc,https://www.linkedin.com/company/endpoint-health/,,,,0
+ExcepGen,https://www.crunchbase.com/organization/excepgen,https://www.linkedin.com/company/excepgen/,,,,0
+OpenPhone,https://www.crunchbase.com/organization/openphone,https://www.linkedin.com/company/openphone/,,,https://www.facebook.com/pg/openphoneapp,
+Nestor,https://www.crunchbase.com/organization/nestor-cc61,https://www.linkedin.com/company/nestorup,,,https://www.facebook.com/NestorUp,
+Verse Medical,https://www.crunchbase.com/organization/verse-medical,https://www.linkedin.com/company/versemedical/,,,,0
+Anjuna,https://www.crunchbase.com/organization/anjuna,https://www.linkedin.com/company/anjuna-security,,,https://www.facebook.com/anjuna.io,
+Oxio,https://www.crunchbase.com/organization/oxio-8919,https://www.linkedin.com/company/oxiointernet/,,,https://www.facebook.com/oxiointernet/,
+Mytos,https://www.crunchbase.com/organization/cytera-cellworks,https://www.linkedin.com/company/mytosbio/,,,,0
+Lucid Bots,https://www.crunchbase.com/organization/lucid-drone-technologies,https://www.linkedin.com/company/lucid-bots,,,https://www.facebook.com/lucidbots,
+Vimcal,https://www.crunchbase.com/organization/vimcal,https://www.linkedin.com/company/vimcal/,,,,0
+Demodesk,https://www.crunchbase.com/organization/demodesk,https://www.linkedin.com/company/demodesk,,,https://www.facebook.com/demodeskcom,
+Reshape Biotech,https://www.crunchbase.com/organization/reshape-biotech,http://linkedin.com/company/reshape-biotech/,,,https://www.facebook.com/reshapebiotech,
+DreamCraft,https://www.crunchbase.com/organization/dreamcraft,https://www.linkedin.com/company/dreamcraft-entertainment-inc/,,,,0
+Paladin Drones,https://www.crunchbase.com/organization/paladin-drones,https://www.linkedin.com/company/paladin-drones/,,,,0
+Simetrik,https://www.crunchbase.com/organization/simetrik,https://www.linkedin.com/company/simetrikinc,,,https://www.facebook.com/simetrikconciliacion,
+Luminate Medical,https://www.crunchbase.com/organization/luminate-medical,https://www.linkedin.com/company/luminate-medical/about/,,,,0
+Fuzzbuzz,https://www.crunchbase.com/organization/fuzzbuzz,https://www.linkedin.com/company/fuzzbuzz/,,,,0
+Alixia,https://www.crunchbase.com/organization/alixia,https://www.linkedin.com/company/alixia-therapeutics/,,,,0
+Berbix,https://www.crunchbase.com/organization/berbix,https://www.linkedin.com/company/berbix,,,https://www.facebook.com/pg/Berbix/about/?ref=page_internal,
+Aviron Interactive,https://www.crunchbase.com/organization/aviron-interactive,https://www.linkedin.com/company/aviron-interactive,,,https://www.facebook.com/avironactive,
+OpenReplay,https://www.crunchbase.com/organization/asayer,https://www.linkedin.com/company/18257552/,,,,0
+Gen1E Lifesciences,https://www.crunchbase.com/organization/gen1e-lifesciences,https://www.linkedin.com/company/gen1e-lifesciences,,,,0
+Datlo,https://www.crunchbase.com/organization/datlo,https://www.linkedin.com/company/siga-geomarketing,,,,0
+AmpUp,https://www.crunchbase.com/organization/ampup,,0,0,,0
+InpharmD,https://www.crunchbase.com/organization/inpharmd,https://www.linkedin.com/company/inpharmd/,,,https://www.facebook.com/Inpharmd/,
+GlobeDX,https://www.crunchbase.com/organization/globe-dx,https://www.linkedin.com/company/globe-derivative-exchange,,,,0
+Actiondesk,https://www.crunchbase.com/organization/actiondesk,https://www.linkedin.com/company/actiondesk/,,,https://www.facebook.com/actiondesk/,
+Tailor-ED,https://www.crunchbase.com/organization/tailor-ed,https://www.linkedin.com/company/tailor-ed/,,,https://www.facebook.com/tailor.ed.instruction/,
+91Squarefeet,https://www.crunchbase.com/organization/91squarefeet,https://www.linkedin.com/company/91sqft,,,https://www.facebook.com/91sqft,
+IcePanel,https://www.crunchbase.com/organization/icepanel,https://www.linkedin.com/company/icepanel/,,,https://www.facebook.com/icepanel/,
+Sapling.ai,https://www.crunchbase.com/organization/sapling-ai,https://www.linkedin.com/company/saplingai,,,https://www.facebook.com/Sapling-Intelligence-684416121988762/,
+CareerTu,https://www.crunchbase.com/organization/careertu,https://www.linkedin.com/company/careertu/,,,,0
+AnchorUSD,https://www.crunchbase.com/organization/anchorusd,,0,0,,0
+Neon,https://www.crunchbase.com/organization/bento-club,https://www.linkedin.com/company/bentocart/,,,https://www.facebook.com/bentocartsf/,
+WorkClout,https://www.crunchbase.com/organization/workclout,https://www.linkedin.com/company/workclout/,,,https://www.facebook.com/workclout/,
+Leena AI,https://www.crunchbase.com/organization/leena-ai,https://www.linkedin.com/company/l-e-e-n-a/,,,https://www.facebook.com/Leena-301312863666839/,
+Bits,https://www.crunchbase.com/organization/fea-card,https://www.linkedin.com/company/getabit/,,,https://www.facebook.com/getabit,
+Procol,https://www.crunchbase.com/organization/procol,https://www.linkedin.com/company/procoltech/,,,https://www.facebook.com/procoltech/,
+Nettrons,https://www.crunchbase.com/organization/nettrons,https://www.linkedin.com/company/nettrons/,,,,0
+Spring in Africa,https://www.crunchbase.com/organization/wallets-africa,https://www.linkedin.com/company/springinafrica,,,https://www.facebook.com/thewalletsafrica,
+Glide Apps,https://www.crunchbase.com/organization/glide-apps,https://www.linkedin.com/company/glideapps/,,,https://www.facebook.com/glideapps,
+Cocoon_2,https://www.crunchbase.com/organization/cocoon-8ab2,https://www.linkedin.com/company/cocoonhq/,,,,0
+Memfault,https://www.crunchbase.com/organization/memfault,https://www.linkedin.com/company/memfault/,,,,0
+Conta Simples,https://www.crunchbase.com/organization/conta-simples,https://www.linkedin.com/company/contasimples,,,https://www.facebook.com/contasimplesBR,
+Ysplit,https://www.crunchbase.com/organization/ysplit,https://www.linkedin.com/company/letsfuse,,,,0
+Synthetic Minds,https://www.crunchbase.com/organization/synthetic-minds,https://www.linkedin.com/company/synthetic-minds/,,,,0
+NUMI,https://www.crunchbase.com/organization/numi-153c,https://www.linkedin.com/company/hello-numi,,,https://www.facebook.com/pg/NUMI-198031807601294/,
+Soteris,https://www.crunchbase.com/organization/soteris,https://www.linkedin.com/company/soteris-inc,,,,0
+Jido Maps,https://www.crunchbase.com/organization/jido-maps,https://www.linkedin.com/company/jido-maps/,,,,0
+Cuanto,https://www.crunchbase.com/organization/cuanto,https://www.linkedin.com/company/cuanto/,,,,0
+Tint.ai,https://www.crunchbase.com/organization/tint-ai,https://www.linkedin.com/company/heytint,,,,0
+Atmos,https://www.crunchbase.com/organization/atmos-506c,https://www.linkedin.com/company/buildatmos,,,https://www.facebook.com/buildatmos,
+Cherry,https://www.crunchbase.com/organization/cherry-107e,https://www.linkedin.com/company/startcherry/,,,https://www.facebook.com/startcherryinc/,
+Enerjazz,https://www.crunchbase.com/organization/enerjazz,https://www.linkedin.com/company/enerjazz-technology-solutions,,,,0
+ReverCare,https://www.crunchbase.com/organization/revercare,https://www.linkedin.com/company/revercare,,,,0
+Schoolable,https://www.crunchbase.com/organization/schoolable-96d9,https://www.linkedin.com/company/schoolable,,,https://www.facebook.com/schoolableHQ/,
+Zeta Surgical,https://www.crunchbase.com/organization/zeta-surgical,https://www.linkedin.com/company/zeta-surgical/,,,,0
+Tappity,https://www.crunchbase.com/organization/tappity,https://www.linkedin.com/company/tappity/,,,https://www.facebook.com/tappityapp/,
+Arpio,https://www.crunchbase.com/organization/arpio,https://www.linkedin.com/company/arpio,,,,0
+Encarte,https://www.crunchbase.com/organization/encarte,https://www.linkedin.com/company/encarte-io,,,,0
+Bensen AI,https://www.crunchbase.com/organization/bensen-ai,https://www.linkedin.com/company/bensen-ai/,,,https://www.facebook.com/AIbensen/,
+Tajir,https://www.crunchbase.com/organization/tajir,https://www.linkedin.com/company/tajir-app/,,,,0
+Woody Library,https://www.crunchbase.com/organization/woody-library,,0,0,,0
+Maitian.ai,https://www.crunchbase.com/organization/maitian-ai,https://www.linkedin.com/company/maitian-ai/,,,,0
+Vectordash,https://www.crunchbase.com/organization/vectordash,https://www.linkedin.com/company/vectordash,,,https://www.facebook.com/vectordashGPU/,
+Playbook,https://www.crunchbase.com/organization/playbook,,0,0,,0
+Taobotics,https://www.crunchbase.com/organization/taobotics,https://www.linkedin.com/company/taobotics/,,,,0
+CaseGuide,https://www.crunchbase.com/organization/jet-law,,0,0,,0
+Pepper,https://www.crunchbase.com/organization/pepper,,0,0,,0
+Ultralight,https://www.crunchbase.com/organization/ultralight,https://www.linkedin.com/company/ultralight-inc/about/,,,,0
+DevFlight,https://www.crunchbase.com/organization/devflight,,0,0,https://www.facebook.com/DevFlightHQ,
+Cognition IP,https://www.crunchbase.com/organization/cognition-ip,https://www.linkedin.com/company/cognitionip,,,,0
+Dbrain,https://www.crunchbase.com/organization/dbrain,https://www.linkedin.com/company/dbrainio/,,,https://www.facebook.com/dbrainio/,
+PlayingViral,https://www.crunchbase.com/organization/playingviral,,0,0,,0
+Midtype,https://www.crunchbase.com/organization/midtype,https://www.linkedin.com/company/midtype/,,,,0
+Wing It,https://www.crunchbase.com/organization/wing-it,https://www.linkedin.com/company/wingthetrip/,,,https://www.facebook.com/gowingit/,
+Let’s Do This,https://www.crunchbase.com/organization/let-s-do-this,https://www.linkedin.com/company/lets-do-this/,,,https://www.facebook.com/letsdothisuk/,
+Slite,https://www.crunchbase.com/organization/slite,https://www.linkedin.com/company/slitehq,,,https://www.facebook.com/sliteHQ/,
+Pronto,https://www.crunchbase.com/organization/pronto-app,https://www.linkedin.com/company/tupronto,,,https://www.facebook.com/ProntoMx/,
+Tough Commerce,https://www.crunchbase.com/organization/brokrete,https://www.linkedin.com/company/brokrete,,,https://www.facebook.com/ToughCommerce,
+Plane,https://www.crunchbase.com/organization/pilot-5,https://www.linkedin.com/company/planehr/,,,,0
+Covela,https://www.crunchbase.com/organization/covela,https://www.linkedin.com/company/covela/,,,,0
+Boostly,https://www.crunchbase.com/organization/boostly,https://www.linkedin.com/company/goboostly,,,https://www.facebook.com/GoBoostly/,
+SenpAI.GG,https://www.crunchbase.com/organization/senpai-gg,https://www.linkedin.com/company/senpaigg,,,https://www.facebook.com/senpaiggesports,
+Convictional,https://www.crunchbase.com/organization/convictional,https://www.linkedin.com/company/convictional,,,,0
+Invocable,https://www.crunchbase.com/organization/storyline,https://www.linkedin.com/company/invocablehq,,,https://www.facebook.com/invocablehq,
+Hedgehog,https://www.crunchbase.com/organization/hedgehog-3704,https://www.linkedin.com/company/hedgehog-app,,,,0
+Ever Loved,https://www.crunchbase.com/organization/ever-loved,https://www.linkedin.com/company/everloved/,,,,0
+Narrator,https://www.crunchbase.com/organization/ai-narrator,https://www.linkedin.com/company/narratorai/,,,https://www.facebook.com/narratorai,
+Passiv,https://www.crunchbase.com/organization/passiv,https://www.linkedin.com/company/passiv,,,,0
+Stacker,https://www.crunchbase.com/organization/stacker-79fe,https://www.linkedin.com/company/stackerlabs/,,,https://www.facebook.com/pg/stackerapps/,
+64x Bio,https://www.crunchbase.com/organization/64-x-mountain-view-california,https://www.linkedin.com/company/64xbio,,,https://www.facebook.com/64xBio,
+CoinTracker,https://www.crunchbase.com/organization/cointracker,https://www.linkedin.com/company/cointracker,,,https://www.facebook.com/cointracker,
+Feroot Security,https://www.crunchbase.com/organization/feroot,https://www.linkedin.com/company/feroot,,,,0
+EARTH AI,https://www.crunchbase.com/organization/earth-ai,https://www.linkedin.com/company/earth-ai/,,,,0
+EdenFarm Indonesia,https://www.crunchbase.com/organization/eden-farm-indonesian,https://www.linkedin.com/company/pt-eden-pangan-indonesia,,,https://www.facebook.com/EdenFarmId,
+Acorn Biolabs,https://www.crunchbase.com/organization/acorn-cryotech,https://www.linkedin.com/company/acornbiolabs,,,,0
+Klarity,https://www.crunchbase.com/organization/klarity,https://www.linkedin.com/company/klarityai/,,,https://www.facebook.com/klaritylaw,
+Inscribe,https://www.crunchbase.com/organization/inscribe,https://www.linkedin.com/company/inscribeai,,,,0
+Aura Vision,https://www.crunchbase.com/organization/aura-vision-labs,https://www.linkedin.com/company/auravisionlabs/,,,https://www.facebook.com/auravisionlabs/,
+PullRequest,https://www.crunchbase.com/organization/pullrequest,https://www.linkedin.com/company-beta/22309681/,,,https://www.facebook.com/pullrequestinc,
+PopSQL,https://www.crunchbase.com/organization/popsql,http://linkedin.com/company/popsql,,,,0
+CoVerified,https://www.crunchbase.com/organization/coverified,https://www.linkedin.com/company/coverified/,,,,0
+Breadfast,https://www.crunchbase.com/organization/breadfast,https://www.linkedin.com/company/breadfast/,,,https://www.facebook.com/breadfast,
+Pulse_2,https://www.crunchbase.com/organization/pulse-q-a,https://www.linkedin.com/company/pulse.qa/,,,https://www.facebook.com/PulseQandA/,
+SafetyWing,https://www.crunchbase.com/organization/safetywing,https://www.linkedin.com/company/safetywing,,,https://www.facebook.com/safetywing,
+Proof,https://www.crunchbase.com/organization/proof,https://www.linkedin.com/company/useproof/,,,https://www.facebook.com/useproof,
+Avo,https://www.crunchbase.com/organization/jul,https://www.linkedin.com/company/avonow,,,https://www.facebook.com/avonow.exclusive,
+Allure Systems,https://www.crunchbase.com/organization/allure-systems,https://www.linkedin.com/company/allure-systems/,,,https://www.facebook.com/pg/Allure-Systems-1986424141609838/,
+Soon,https://www.crunchbase.com/organization/soonapp,https://linkedin.com/company/soonfinance,,,https://facebook.com/soonfintech,
+Goodcover,https://www.crunchbase.com/organization/goodcover,https://in.linkedin.com/company/goodcover,,,https://www.facebook.com/pg/GoodcoverCo,
+Pathrise,https://www.crunchbase.com/organization/pathrise,https://www.linkedin.com/school/pathrise,,,https://www.facebook.com/pathriseio,
+Pyka,https://www.crunchbase.com/organization/pyka,https://www.linkedin.com/company/flypyka,,,,0
+Boundless Immigration,https://www.crunchbase.com/organization/boundless-2,https://www.linkedin.com/company/boundless-immigration/,,,https://www.facebook.com/ChooseBoundless,
+FlowEQ,https://www.crunchbase.com/organization/brightreps,https://www.linkedin.com/company/FlowEQ,,,https://www.facebook.com/TeamFlowEQ,
+Charge Running,https://www.crunchbase.com/organization/charge-running,https://www.linkedin.com/company-beta/16191940/,,,https://www.facebook.com/ChargeRunning/,
+BBy,https://www.crunchbase.com/organization/bby,https://www.linkedin.com/company/bby-inc,,,https://www.facebook.com/bbycares,
+Rain AI,https://www.crunchbase.com/organization/rain-neuromorphics,https://www.linkedin.com/company/rain-artificial-intelligence,,,https://www.facebook.com/rainneuromorphics,
+MindsDB,https://www.crunchbase.com/organization/mindsdb,https://www.linkedin.com/company/mindsdb,,,https://www.facebook.com/MindsDB,
+Biobot Analytics,https://www.crunchbase.com/organization/biobot-analytics,https://www.linkedin.com/company/biobot-analytics,,,,0
+Catch,https://www.crunchbase.com/organization/catchco,https://www.linkedin.com/company/catchbenefits,,,https://www.facebook.com/catchbenefits,
+D-ID,https://www.crunchbase.com/organization/d-id,http://www.linkedin.com/company/deidentification,,,https://www.facebook.com/pg/deidentification,
+BioRender,https://www.crunchbase.com/organization/biorender-inc,https://www.linkedin.com/company/biorender,,,https://www.facebook.com/biorender,
+Routable,https://www.crunchbase.com/organization/routable,https://www.linkedin.com/company/routable/,,,https://www.facebook.com/RoutableHQ,
+Nala,https://www.crunchbase.com/organization/nala-money,https://www.linkedin.com/company/nalamoney/,,,https://www.facebook.com/NALA.money/,
+CoLab Software,https://www.crunchbase.com/organization/colab-software,https://www.linkedin.com/company/colabsoftware,,,https://www.facebook.com/colabsoftware,
+Yassir,https://www.crunchbase.com/organization/yassir,https://www.linkedin.com/company/yassir-global,,,https://www.facebook.com/Yassir.Algerie,
+Rebellyous Foods,https://www.crunchbase.com/organization/seattle-food-tech-sft,https://www.linkedin.com/company/seattle-food-tech/,,,https://www.facebook.com/RebellyousFoods,
+Curebase,https://www.crunchbase.com/organization/curebase,https://www.linkedin.com/company/curebase,,,https://www.facebook.com/curebaseDCT,
+Easol,https://www.crunchbase.com/organization/fixers,https://www.linkedin.com/company/easolhq,,,https://www.facebook.com/Easol.Official,
+Microverse,https://www.crunchbase.com/organization/microverse,https://www.linkedin.com/company/microverseinc/,,,https://www.facebook.com/microverseinc,
+Persephone Biosciences,https://www.crunchbase.com/organization/persephone-biome,https://www.linkedin.com/company/persephone-biome,,,,0
+Collectly,https://www.crunchbase.com/organization/collectly-inc,https://www.linkedin.com/company/collectly,,,https://www.facebook.com/collectly,
+Corvus Robotics,https://www.crunchbase.com/organization/corvus-robotics,https://in.linkedin.com/company/corvus-robotics,,,,0
+Snappr,https://www.crunchbase.com/organization/snappr-2,https://www.linkedin.com/company/snappr.co/,,,https://www.facebook.com/snappr.co,
+Centaur Labs,https://www.crunchbase.com/organization/centaur-labs,https://www.linkedin.com/company/centaur-labs,,,https://www.facebook.com/CentaurLabs,
+Mighty Buildings,https://www.crunchbase.com/organization/mighty-buildings,https://www.linkedin.com/company/mightybuildings,,,https://www.facebook.com/mightybuildings,
+Emi Labs,https://www.crunchbase.com/organization/emi-2,https://www.linkedin.com/company/emi-labs/,,,,0
+Arpeggio Bio,https://www.crunchbase.com/organization/arpeggio-bio,https://www.linkedin.com/company/arpeggio-biosciences/,,,,0
+Convex,https://www.crunchbase.com/organization/convex-c445,https://www.linkedin.com/company/convex-labs/,,,,0
+Obie,https://www.crunchbase.com/organization/obiesoft,https://www.linkedin.com/company/joinobie,,,,0
+Forage,https://www.crunchbase.com/organization/insidesherpa,https://www.linkedin.com/company/theforage,,,https://www.facebook.com/theforage1,
+Veryfi,https://www.crunchbase.com/organization/veryfi,https://www.linkedin.com/company/veryfi-inc/,,,https://www.facebook.com/veryfinance,
+Sable,https://www.crunchbase.com/organization/sable,https://www.linkedin.com/company/sable-card/,,,https://www.facebook.com/sablemoney/,
+Flowspace,https://www.crunchbase.com/organization/flowspace,https://www.linkedin.com/company/flowspace/,,,https://www.facebook.com/getflowspace/,
+Gordian Software,https://www.crunchbase.com/organization/gordian-software,https://www.linkedin.com/company/gordian-software/,,,,0
+ScopeAI,https://www.crunchbase.com/organization/quiki,https://www.linkedin.com/company-beta/17914393/,,,https://www.facebook.com/scopeai,
+Blueberry Pediatrics,https://www.crunchbase.com/organization/blueberry-pediatrics,https://www.linkedin.com/company/sparkmdinc,,,https://www.facebook.com/blueberrypediatrics,
+Nomba,https://www.crunchbase.com/organization/nomba,https://www.linkedin.com/company/nombahq,,,https://www.facebook.com/nombahq,
+Copilot,https://www.crunchbase.com/organization/portal-76bb,https://www.linkedin.com/company/portaltechnologieshq,,,https://www.facebook.com/portaltechnologieshq,
+VenoStent,https://www.crunchbase.com/organization/venostent,https://www.linkedin.com/company/venostent,,,,0
+CodeStream,https://www.crunchbase.com/organization/codestream,https://www.linkedin.com/company/teamcodestream/,,,https://www.facebook.com/teamcodestream/,
+Four Growers,https://www.crunchbase.com/organization/four-growers,https://www.linkedin.com/company/four-growers-inc,,,,0
+Regology,https://www.crunchbase.com/organization/regology,https://www.linkedin.com/company/regology/,,,,0
+Juni Learning,https://www.crunchbase.com/organization/juni-learning,https://www.linkedin.com/company/18219315/,,,https://www.facebook.com/junilearning/,
+Cowrywise,https://www.crunchbase.com/organization/cowrywise,https://www.linkedin.com/company/cowrywise/,,,https://www.facebook.com/cowrywise/,
+Senso.ai,https://www.crunchbase.com/organization/senso-2,https://www.linkedin.com/company/senso.ai,,,https://www.facebook.com/sensoai,
+Upfort,https://www.crunchbase.com/organization/paladin-cyber,https://www.linkedin.com/company/upfort,,,,0
+Spect,https://www.crunchbase.com/organization/spect,https://www.linkedin.com/company/getspect,,,,0
+Pylon_2,https://www.crunchbase.com/organization/pylon-f2e7,https://www.linkedin.com/company/pylonump,,,,0
+JITX,https://www.crunchbase.com/organization/jitx,https://www.linkedin.com/company/jitx/,,,,0
+Tipe,https://www.crunchbase.com/organization/tipe,https://www.linkedin.com/company/18299777/,,,https://facebook.com/TipeCMS,
+Genomelink,https://www.crunchbase.com/organization/awakens-inc,https://www.linkedin.com/company/awakens,,,https://www.facebook.com/Genomelink/,
+Hiration,https://www.crunchbase.com/organization/hiration,https://www.linkedin.com/company/hiration/,,,https://www.facebook.com/Hiration/,
+SnapTrade,https://www.crunchbase.com/organization/snaptrade-be4e,https://www.linkedin.com/company/snaptrade,,,,0
+Draftbit,https://www.crunchbase.com/organization/draftbit,https://www.linkedin.com/company/draftbit/,,,https://www.facebook.com/pg/draftbit/,
+MindFi,https://www.crunchbase.com/organization/mindfi,https://www.linkedin.com/company/mindfi.co,,,https://www.facebook.com/mindfico,
+SST,https://www.crunchbase.com/organization/sst-2a7e,https://www.linkedin.com/company/sst-dev,,,,0
+BUMP,https://www.crunchbase.com/organization/bump-d27e,https://www.linkedin.com/company/sobump/,,,https://www.facebook.com/bumpofficial/,
+WeatherCheck,https://www.crunchbase.com/organization/weathercheck,https://www.linkedin.com/company/weathercheck/about/,,,https://www.facebook.com/WeatherCheckCo/,
+MARS Auto,https://www.crunchbase.com/organization/mars-auto,https://www.linkedin.com/company/marsauto/about/,,,https://www.facebook.com/pg/marsautonomous/,
+Ovipost,https://www.crunchbase.com/organization/ovipost,https://www.linkedin.com/company/ovipost,,,,0
+Nanonets,https://www.crunchbase.com/organization/nanonets,https://www.linkedin.com/company/nanonets,,,https://www.facebook.com/nanonets,
+Waydev,https://www.crunchbase.com/organization/waydev,https://www.linkedin.com/company/18141259/,,,https://www.facebook.com/waydevco,
+Actipulse Neuroscience (YC W22),https://www.crunchbase.com/organization/actipulse-international,https://www.linkedin.com/company/24765499/,,,https://www.facebook.com/actipulse/,
+Safepay,https://www.crunchbase.com/organization/safepay,https://www.linkedin.com/company/safepay/,,,https://www.facebook.com/safepay.pk/,
+Anima App,https://www.crunchbase.com/organization/anima-app,https://linkedin.com/company/anima-app,,,https://www.facebook.com/animaapp,
+Makani Science,https://www.crunchbase.com/organization/makani-science,https://www.linkedin.com/company/makani-science,,,https://www.facebook.com/makaniscience,
+Shone,https://www.crunchbase.com/organization/shone-io,https://www.linkedin.com/company/shone-io/,,,,0
+College Pulse,https://www.crunchbase.com/organization/collegepulse,https://www.linkedin.com/company/college-pulse/,,,https://www.facebook.com/pg/PulseSurvey/,
+Sepsis Scout,https://www.crunchbase.com/organization/sepsisscout,,0,0,,0
+AXDRAFT,https://www.crunchbase.com/organization/axdraft,https://www.linkedin.com/company/axdraft/,,,https://www.facebook.com/axdraft/,
+Glimpsek12,https://www.crunchbase.com/organization/glimpsek12,https://www.linkedin.com/company/glimpsek12,,,,0
+onederful,https://www.crunchbase.com/organization/onederful,https://www.linkedin.com/company/18206773/,,,,0
+Bear Flag Robotics,https://www.crunchbase.com/organization/bear-flag-robotics,https://www.linkedin.com/company/bear-flag-robotics,,,https://www.facebook.com/Bearflagrobotics,
+Supermedium,https://www.crunchbase.com/organization/supermedium,https://www.linkedin.com/company/18477709/,,,https://facebook.com/supermediumvr/,
+LUS Brands,https://www.crunchbase.com/organization/lus-brands,https://www.linkedin.com/in/saharsaidi/,,,https://www.facebook.com/lusbrands/,
+AllSome,https://www.crunchbase.com/organization/5688-global-limited,https://www.linkedin.com/company/13277251,,,https://www.facebook.com/allsometrack,
+Duffel,https://www.crunchbase.com/organization/duffelhq,https://www.linkedin.com/company/duffelhq,,,https://www.facebook.com/duffelhq/,
+Cero.AI,https://www.crunchbase.com/organization/cero-ai,https://www.linkedin.com/company/ceroai,,,,0
+hypcloud,https://www.crunchbase.com/organization/hypcloud,https://www.linkedin.com/company/hypcloud/,,,,0
+Gustav,https://www.crunchbase.com/organization/gustav,https://www.linkedin.com/company/hellogustav.com/,,,https://www.facebook.com/pg/GustavTechnologies/,
+HelpNow,https://www.crunchbase.com/organization/helpnow,https://www.linkedin.com/company/helpnow-8899889952/,,,https://www.facebook.com/GetHelpNowIndia/,
+AuroraQ,https://www.crunchbase.com/organization/AuroraQ,https://www.linkedin.com/company/qspice-labs-inc/,,,,0
+Intelline,https://www.crunchbase.com/organization/intelline,https://www.linkedin.com/company/34746898/admin/,,,https://www.facebook.com/intelline/,
+Beanstalk,https://www.crunchbase.com/organization/beanstalk-16c1,https://www.linkedin.com/company/beanstalk-inc,,,,0
+Ropeo,https://www.crunchbase.com/organization/ropeo,https://www.linkedin.com/company/ropeo/,,,https://www.facebook.com/ropeocolombia/,
+GeoPredict,https://www.crunchbase.com/organization/geopredict,https://www.linkedin.com/company/geopredict/,,,,0
+Cache,https://www.crunchbase.com/organization/cache-0d59,,0,0,,0
+Matagora,https://www.crunchbase.com/organization/matagora,https://www.linkedin.com/company/matagora/,,,https://www.facebook.com/matagora,
+Easyplan,https://www.crunchbase.com/organization/easyplan,https://www.linkedin.com/company/easyplan-india/,,,https://www.facebook.com/easyplanindia/,
+Tradewind BioScience,https://www.crunchbase.com/organization/tradewind-bioscience,https://www.linkedin.com/company/tradewind-bioscience,,,,0
+Zergo,https://www.crunchbase.com/organization/sanntek,https://www.linkedin.com/company/zergo/,,,,0
+Passerine Aircraft Corporation,https://www.crunchbase.com/organization/passerine-aircraft-corporation,https://www.linkedin.com/company/passerineaircraft/,,,https://www.facebook.com/PasserineAircraft/,
+Mayhem,https://www.crunchbase.com/organization/mayhem-gg,https://www.linkedin.com/company/mayhemgg/,,,https://www.facebook.com/MayhemGG/,
+Rhythmm,https://www.crunchbase.com/organization/rhythmm,,0,0,,0
+Kestrel Materials,https://www.crunchbase.com/organization/kestrel-materials,https://www.linkedin.com/company/skyscrape ,,,,0
+OSIMple,https://www.crunchbase.com/organization/osimple,https://www.linkedin.com/company/bigbridge-technologies-inc,,,,0
+YouTeam (YC W18),https://www.crunchbase.com/organization/youteam,https://www.linkedin.com/company/3742074?trk=tyah&trkInfo=clickedVertical%3Acompany%2CentityType%3AentityHistoryName%2CclickedEntityId%3Acompany_3742074%2Cidx%3A1,,,https://www.facebook.com/youteamUK/?fref=ts,
+Aurabeat,https://www.crunchbase.com/organization/aurabeat,https://www.linkedin.com/company/aurabeat-usa,,,https://www.facebook.com/Aurabeat.NA,
+Smart Alto,https://www.crunchbase.com/organization/smart-alto,https://www.linkedin.com/company-beta/17967554/?pathWildcard=17967554,,,https://www.facebook.com/SmartAltoAI/,
+Clupp,https://www.crunchbase.com/organization/clupp,https://www.linkedin.com/company/cluppseguro/,,,https://www.facebook.com/cluppseguro/,
+GoLinks,https://www.crunchbase.com/organization/golinks,https://www.linkedin.com/company/golinks,,,https://www.facebook.com/golinksio,
+Cairns Health,https://www.crunchbase.com/organization/totemic-labs,https://www.linkedin.com/company/cairns-health,,,,0
+Deed,https://www.crunchbase.com/organization/deed-2,https://www.linkedin.com/company/joindeed,,,https://www.facebook.com/joindeednow,
+70 Million Jobs,https://www.crunchbase.com/organization/70-million-jobs,https://www.linkedin.com/company/70-million-jobs/,,,https://www.facebook.com/70MillionJobs/,
+CureSkin,https://www.crunchbase.com/organization/cureskin,https://www.linkedin.com/company/heallo.ai/,,,https://www.facebook.com/cureskinapp/,
+Station,https://www.crunchbase.com/organization/station-2,https://www.linkedin.com/company/getstation/,,,https://www.facebook.com/StationApp,
+Hublo,https://www.crunchbase.com/organization/hublo,https://www.linkedin.com/company/hublo-fr,,,https://www.facebook.com/wearehublo,
+Gmelius,https://www.crunchbase.com/organization/gmelius,https://www.linkedin.com/company/gmelius,,,http://www.facebook.com/gmeliusTM,
+Elucd,https://www.crunchbase.com/organization/elucd,https://www.linkedin.com/company-beta/16271468/,,,https://www.facebook.com/elucd/,
+Penta Medical,https://www.crunchbase.com/organization/penta-medical,,0,0,,0
+Headstart,https://www.crunchbase.com/organization/headstart-app,https://www.linkedin.com/company/headstart-ai/,,,https://www.facebook.com/headstart.io,
+Kernal Biologics,https://www.crunchbase.com/organization/kernal-biologics,https://www.linkedin.com/company/15196047/,,,https://www.facebook.com/KernalBiologics-1770335909881227/about/?ref=page_internal,
+bxblue,https://www.crunchbase.com/organization/bxblue,https://www.linkedin.com/company-beta/10936124,,,https://www.facebook.com/bxbluebr,
+DocTalk,https://www.crunchbase.com/organization/doctalk,,0,0,,0
+Fieldproxy,https://www.crunchbase.com/organization/fieldproxy,https://www.linkedin.com/company/fieldproxy,,,https://www.facebook.com/fieldproxy,
+LemonBox,https://www.crunchbase.com/organization/lemonbox,https://www.linkedin.com/company/%E6%9F%A0%E6%AA%AC%E5%A0%82lemonbox/,,,https://www.facebook.com/lemonboxofficial/,
+Haiku,https://www.crunchbase.com/organization/haiku-2,https://www.linkedin.com/company/haiku-san-francisco,,,https://www.facebook.com/HaikuForTeams/,
+Hatch,https://www.crunchbase.com/organization/hatch-0729,https://www.linkedin.com/company/usehatchapp,,,https://www.facebook.com/usehatch,
+Sendbox,https://www.crunchbase.com/organization/sendbox,https://www.linkedin.com/company/sendbox-technologies/,,,https://www.facebook.com/sendbox.ng/,
+Cosmic,https://www.crunchbase.com/organization/cosmic-js,https://www.linkedin.com/company/cosmic-js,,,https://www.facebook.com/cosmicjs,
+PAYFAZZ,https://www.crunchbase.com/organization/payfazz,https://www.linkedin.com/company/payfazz.com,,,https://www.facebook.com/payfazz,
+Flo Recruit,https://www.crunchbase.com/organization/flo-recruit,https://www.linkedin.com/company/florecruit/,,,https://www.facebook.com/FloRecruit/,
+NexGenT,https://www.crunchbase.com/organization/nexgent-inc,https://www.linkedin.com/company/nexgent,,,https://www.facebook.com/nexgent,
+RankScience,https://www.crunchbase.com/organization/rank-science-2,https://www.linkedin.com/company/rankscience/,,,https://www.facebook.com/rankscience/,
+Thematic,https://www.crunchbase.com/organization/thematic,https://www.linkedin.com/company/thematic-ltd/,,,https://www.facebook.com/getthematic/,
+Bottomless,https://www.crunchbase.com/organization/bottomless,https://www.linkedin.com/company/bottomless/,,,https://facebook.com/bottomless,
+HireSweet,https://www.crunchbase.com/organization/hiresweet,https://www.linkedin.com/company/hiresweet/,,,https://www.facebook.com/hiresweet/,
+"CocuSocial, Inc.",https://www.crunchbase.com/organization/cocusocial,https://www.linkedin.com/company-beta/7973329/,,,https://www.facebook.com/cocusocial/,
+HitPay,https://www.crunchbase.com/organization/hitkey,https://www.linkedin.com/company/hitpay-payments,,,https://www.facebook.com/hitpaynow,
+INKHUNTER,https://www.crunchbase.com/organization/inkhunter,https://www.linkedin.com/company/inkhunter/,,,https://www.facebook.com/inkHunter,
+NODE,https://www.crunchbase.com/organization/node-4506,https://www.linkedin.com/company/18348713/,,,,0
+Pangea,https://www.crunchbase.com/organization/pangea-app,https://www.linkedin.com/company/app-pangea,,,https://www.facebook.com/app.Pangea,
+Fat Llama,https://www.crunchbase.com/organization/fat-lama,https://www.linkedin.com/company/fat-lama/,,,https://www.facebook.com/FatLlamaHQ/,
+Copia,https://www.crunchbase.com/organization/copia-2,https://www.linkedin.com/company/gocopia/,,,https://www.facebook.com/gocopia,
+Prompt,https://www.crunchbase.com/organization/prompt,,0,0,,0
+Replit,https://www.crunchbase.com/organization/replit,https://www.linkedin.com/company/repl-it,,,https://www.facebook.com/replit,
+Wallarm,https://www.crunchbase.com/organization/wallarm,https://www.linkedin.com/company/wallarm,,,https://www.facebook.com/wallarm,
+Proven Skincare,https://www.crunchbase.com/organization/proven-2932,https://www.linkedin.com/company/provenskincare/,,,https://www.facebook.com/provenskincare/,
+Humi,https://www.crunchbase.com/organization/humi-hr,https://www.linkedin.com/company/humi-hr,,,https://www.facebook.com/gethumi,
+Nobell Foods,https://www.crunchbase.com/organization/alpine-roads,https://www.linkedin.com/company/nobellfoods/,,,https://www.facebook.com/pages/category/Food---Beverage/Nobell-Foods-110600737779678/,
+Ribbon Health,https://www.crunchbase.com/organization/ribbonhealth,https://www.linkedin.com/company/ribbonhealth/,,,,0
+Culture Biosciences,https://www.crunchbase.com/organization/culture-robotics,https://www.linkedin.com/company/culture-robotics/,,,https://www.facebook.com/culturebiosci/,
+Mattermost,https://www.crunchbase.com/organization/mattermost,https://www.linkedin.com/company/mattermost/,,,https://www.facebook.com/MattermostHQ/,
+Encellin,https://www.crunchbase.com/organization/encellin,https://www.linkedin.com/company-beta/7973731/,,,,0
+Multiply Labs,https://www.crunchbase.com/organization/multiply-labs,https://www.linkedin.com/company/multiply-labs,,,https://www.facebook.com/multiplylabsforyou/,
+Joy,https://www.crunchbase.com/organization/joytheapp,https://www.linkedin.com/company/joy-the-app,,,https://www.facebook.com/joytheapp,
+Sleep Reset,https://www.crunchbase.com/organization/sleep-reset,https://www.linkedin.com/company/sleep-reset/,,,https://www.facebook.com/sleepreset,
+Helium Health,https://www.crunchbase.com/organization/helium-healthcare,https://www.linkedin.com/company/heliumhealth,,,https://www.facebook.com/HeliumHealth,
+Enzyme,https://www.crunchbase.com/organization/enzyme-2,https://www.linkedin.com/company/enzymecorp/,,,,0
+Lucy Goods,https://www.crunchbase.com/organization/lucy-goods,https://ca.linkedin.com/company/lucy-goods,,,https://www.facebook.com/lucynicotine,
+Farmstead,https://www.crunchbase.com/organization/futureads-llc,https://www.linkedin.com/company/farmstead,,,https://www.facebook.com/farmsteadapp,
+Pnoe,https://www.crunchbase.com/organization/pnoe,https://www.linkedin.com/company/pnoe/,,,,0
+RelianceHMO,https://www.crunchbase.com/organization/reliancehmo-7eff,https://www.linkedin.com/company/reliance-hmo/,,,https://www.facebook.com/reliancehmo,
+Numida,https://www.crunchbase.com/organization/numida-technologies,https://www.linkedin.com/company/numida-technologies/,,,https://www.facebook.com/pg/trackapp.numidatech/,
+Meitre,https://www.crunchbase.com/organization/meitre,https://www.linkedin.com/company/18489108/,,,,0
+Kudi,https://www.crunchbase.com/organization/kudi,https://www.linkedin.com/company/kudi.ai,,,https://www.facebook.com/kudidotai/,
+Shipamax,https://www.crunchbase.com/organization/shipamax,https://www.linkedin.com/company/shipamax/,,,https://www.facebook.com/shipamax/,
+Bonsai,https://www.crunchbase.com/organization/bonsai-2,https://www.linkedin.com/company/bonsai,,,https://www.facebook.com/hellobonsai,
+CrowdAI,https://www.crunchbase.com/organization/crowdai,https://linkedin.com/companies/crowdai,,,,0
+Naborly,https://www.crunchbase.com/organization/naborly,http://linkedin.com/company/naborly,,,https://www.facebook.com/naborly,
+Power Router,https://www.crunchbase.com/organization/power-router,https://www.linkedin.com/company/power-router,,,,0
+Withfriends,https://www.crunchbase.com/organization/withfriends,https://www.linkedin.com/company/18361020/,,,https://www.facebook.com/domorewithfriends/,
+ClearBrain,https://www.crunchbase.com/organization/clearbrain,https://www.linkedin.com/company/18023438,,,https://www.facebook.com/clearbraininc,
+Officely,https://www.crunchbase.com/organization/officely,https://www.linkedin.com/company/getofficely/,,,https://www.facebook.com/Officely-103501008138720/,
+Kisan Network,https://www.crunchbase.com/organization/kisan-network,https://www.linkedin.com/company/kisan-network,,,https://www.facebook.com/kisannetwork,
+Edwin,https://www.crunchbase.com/organization/edwin-ai,https://www.linkedin.com/company/11041151/,,,https://www.facebook.com/englishwithedwin,
+Tetra,https://www.crunchbase.com/organization/tetra,https://www.linkedin.com/company/tetra-yc-w17-/,,,https://www.facebook.com/calltetra/,
+Unima,https://www.crunchbase.com/organization/unima,https://www.linkedin.com/company/unimainc/,,,,0
+Circa,https://www.crunchbase.com/organization/eventgeek,https://www.linkedin.com/company/hicirca,,,https://www.facebook.com/HiCirca,
+Inspector Cloud,https://www.crunchbase.com/organization/inspector-cloud,https://www.linkedin.com/company/inspector-cloud,,,https://www.facebook.com/pg/inspectorcloudretail,
+Precious,https://www.crunchbase.com/organization/precious,https://www.linkedin.com/company/baby-art-app/,,,,0
+Audm,https://www.crunchbase.com/organization/audm,https://www.linkedin.com/company/audm,,,https://www.facebook.com/audmapp/,
+Khabri,https://www.crunchbase.com/organization/khabri,https://www.linkedin.com/company/khabri-app,,,,0
+Apurata,https://www.crunchbase.com/organization/apurata,https://www.linkedin.com/company/25054797,,,https://www.facebook.com/ApurataPrestamos/,
+YourQuote,https://www.crunchbase.com/organization/yourquote,https://in.linkedin.com/company/yourquote,,,https://www.facebook.com/YourQuoteApp/,
+Buglife,https://www.crunchbase.com/organization/buglife,https://www.linkedin.com/company/bofaml,,,,0
+Caelum Health,https://www.crunchbase.com/organization/caelum-health,https://www.linkedin.com/company-beta/18131547/,,,https://www.facebook.com/caelumhealth/,
+SharpestMinds,https://www.crunchbase.com/organization/sharpestminds,https://www.linkedin.com/company/18322157/,,,https://www.facebook.com/SharpestMinds/,
+MyPetrolPump,https://www.crunchbase.com/organization/mypetrolpump,https://www.linkedin.com/company/mypetrolpump/,,,https://www.facebook.com/mypetrolpump/,
+Edyst,https://www.crunchbase.com/organization/edyst,https://www.linkedin.com/company/edyst/,,,https://www.facebook.com/edystme/,
+Loom.ai,https://www.crunchbase.com/organization/loomai,https://www.linkedin.com/company/loom.ai,,,https://www.facebook.com/loomaiinc,
+Zinc Platform,https://www.crunchbase.com/organization/zinc-platform,https://www.linkedin.com/company/zinc-platform/,,,https://www.facebook.com/zincplatform/,
+High Earth Orbit Robotics,https://www.crunchbase.com/organization/high-earth-orbit-robotics,https://www.linkedin.com/company/high-earth-orbit-robotics,,,,0
+Solve,https://www.crunchbase.com/organization/solve-4,https://www.linkedin.com/company-beta/12958126/,,,,0
+Vanido,https://www.crunchbase.com/organization/vanido,https://www.linkedin.com/company-beta/16246961/,,,https://www.facebook.com/pg/VanidoApp,
+SmartSite,https://www.crunchbase.com/organization/smartsite,https://www.linkedin.com/company/smart-site,,,,0
+JetPack Aviation,https://www.crunchbase.com/organization/jetpack-aviation,https://in.linkedin.com/company/jetpack-aviation,,,https://www.facebook.com/jetpackaviation/,
+SMBRate,https://www.crunchbase.com/organization/smbrate,,0,0,https://www.facebook.com/yoursmbrate,
+Legistify,https://www.crunchbase.com/organization/legistify,https://www.linkedin.com/company/get-legal,,,https://www.facebook.com/legistify,
+Curtsy,https://www.crunchbase.com/organization/curtsy,https://www.linkedin.com/company/curtsy,,,https://www.facebook.com/curtsyapp,
+Saleswhale,https://www.crunchbase.com/organization/saleswhale,http://www.linkedin.com/company/saleswhale,,,http://www.facebook.com/saleswhaleio,
+Rose Rocket,https://www.crunchbase.com/organization/rose-rocket,https://www.linkedin.com/company/15180908,,,https://www.facebook.com/RoseRocket,
+Pop Meals,https://www.crunchbase.com/organization/dah-makan,https://www.linkedin.com/company/dah-makan,,,http://www.facebook.com/orderdahmakan,
+Superside,https://www.crunchbase.com/organization/konsus,https://www.linkedin.com/company/superside,,,https://www.facebook.com/supersidehq,
+CareRev,https://www.crunchbase.com/organization/care-revolutions,https://www.linkedin.com/company/carerev,,,https://www.facebook.com/CareRev,
+"Mason America, Inc.",https://www.crunchbase.com/organization/mason,https://www.linkedin.com/company/mason-america/,,,https://www.facebook.com/buildwithmason,
+Sudden Coffee,https://www.crunchbase.com/organization/sudden-coffee,https://www.linkedin.com/company/sudden-coffee,,,https://www.facebook.com/suddencoffee/,
+ZiffyHomes,https://www.crunchbase.com/organization/ziffy-homes,https://www.linkedin.com/company/ziffyhomes,,,https://www.facebook.com/ziffyhomes,
+Jopwell,https://www.crunchbase.com/organization/jopwell,https://www.linkedin.com/company/jopwell,,,https://www.facebook.com/Jopwell,
+Token Transit,https://www.crunchbase.com/organization/token-transit,https://www.linkedin.com/company/tokentransit/,,,https://www.facebook.com/tokentransit/,
+OneChronos,https://www.crunchbase.com/organization/one-chronos,https://www.linkedin.com/company/onechronos/,,,,0
+Focal Systems,https://www.crunchbase.com/organization/focal-systems,https://www.linkedin.com/company/focal-systems-inc.,,,,0
+PartnerStack,https://www.crunchbase.com/organization/partnerstack,https://www.linkedin.com/company/partnerstack,,,https://www.facebook.com/PartnerStack-576964792737529,
+Landed_2,https://www.crunchbase.com/organization/landed,https://www.linkedin.com/company/landed-inc/,,,https://www.facebook.com/landedinc/,
+zeroheight,https://www.crunchbase.com/organization/zeroheight,https://www.linkedin.com/company/zero-height,,,https://www.facebook.com/zeroheight/,
+Contraline,https://www.crunchbase.com/organization/contraline,https://www.linkedin.com/company/contraline-llc,,,https://www.facebook.com/contralinellc,
+Auro Robotics,https://www.crunchbase.com/organization/auro-robotics,https://www.linkedin.com/company/auro-robotics,,,https://www.facebook.com/AuroAi/,
+Netomi,https://www.crunchbase.com/organization/netomi,https://www.linkedin.com/company/netomi/,,,https://www.facebook.com/officialnetomi,
+Voodoo Manufacturing,https://www.crunchbase.com/organization/voodoo-manufacturing,https://www.linkedin.com/company-beta/6473428,,,https://www.facebook.com/vdmfg/,
+Deako,https://www.crunchbase.com/organization/deako,https://www.linkedin.com/company/deako,,,https://www.facebook.com/deakolights/,
+AirX,https://www.crunchbase.com/organization/airx,https://www.linkedin.com/company/airx-inc,,,https://www.facebook.com/airx.inc20150223/,
+Sandbox Banking,https://www.crunchbase.com/organization/sandbox-banking,https://www.linkedin.com/company/sandboxbanking,,,,0
+Junction_2,https://www.crunchbase.com/organization/junction,,0,0,https://www.facebook.com/junctiondash,
+Aerones,https://www.crunchbase.com/organization/aerones,https://www.linkedin.com/company/aerones/,,,https://www.facebook.com/aeronescom/,
+Replika,https://www.crunchbase.com/organization/io,https://www.linkedin.com/company/luka-inc,,,https://www.facebook.com/myownreplika,
+Paystack,https://www.crunchbase.com/organization/paystack,https://www.linkedin.com/company/paystack,,,https://www.facebook.com/PaystackHQ,
+Akido Labs,https://www.crunchbase.com/organization/akido-labs,https://www.linkedin.com/company/9335675,,,,0
+Deepgram,https://www.crunchbase.com/organization/deepgram,https://www.linkedin.com/company/deepgram,,,https://www.facebook.com/deepgram,
+Eden,https://www.crunchbase.com/organization/eden,https://www.linkedin.com/company/edenworkplace/,,,https://www.facebook.com/edenworkplace/,
+Thunkable,https://www.crunchbase.com/organization/thunkable,https://www.linkedin.com/company/thunkable,,,https://www.facebook.com/thunkable,
+Inito,https://www.crunchbase.com/organization/inito,https://www.linkedin.com/company/10073351/,,,https://www.facebook.com/InitoFertilityUSA/,
+iSono Health,https://www.crunchbase.com/organization/isono-health,https://www.linkedin.com/company/6453013?trk=prof-exp-company-name,,,https://www.facebook.com/isonohealth/?fref=ts,
+Enso,https://www.crunchbase.com/organization/enso-org,https://www.linkedin.com/company/enso-org,,,,0
+GetAccept,https://www.crunchbase.com/organization/getaccept,https://www.linkedin.com/company/getaccept,,,https://www.facebook.com/GetAccept,
+Revl,https://www.crunchbase.com/organization/revl,https://www.linkedin.com/company/revl-inc-,,,https://www.facebook.com/RevlExperiences/,
+Playment,https://www.crunchbase.com/organization/playment,https://www.linkedin.com/company/6611939,,,https://www.facebook.com/playmentHQ,
+Validere,https://www.crunchbase.com/organization/validere-technologies,https://www.linkedin.com/company/validere/,,,https://www.facebook.com/valideretechnologies,
+Beek,https://www.crunchbase.com/organization/beek-2,https://www.linkedin.com/company/beek-io,,,https://www.facebook.com/beek_io,
+Pocket Worlds,https://www.crunchbase.com/organization/pocket-worlds,https://www.linkedin.com/company/pocketworlds,,,,0
+Triplebyte,https://www.crunchbase.com/organization/triplebyte,https://www.linkedin.com/company/triplebyte,,,https://www.facebook.com/triplebyte,
+Vetcove,https://www.crunchbase.com/organization/vetcove-2,https://www.linkedin.com/company/vetcove,,,https://www.facebook.com/vetcove,
+Prenda,https://www.crunchbase.com/organization/prenda,https://www.linkedin.com/company/prenda/,,,https://www.facebook.com/prendalearn,
+Reliance Health,https://www.crunchbase.com/organization/reliancehealth,https://www.linkedin.com/company/reliance-health-global/,,,https://www.facebook.com/reliancehmo,
+TransAstra,https://www.crunchbase.com/organization/transastra,https://www.linkedin.com/company/trans-astronautica-corporation,,,,0
+KidPass,https://www.crunchbase.com/organization/kidpass,https://www.linkedin.com/company/kidpass/,,,http://facebook.com/kidpass,
+Breathe Well-being,https://www.crunchbase.com/organization/breathe-well-being,https://www.linkedin.com/company/breathe-well-being,,,https://www.facebook.com/breathewellbeing,
+AON3D,https://www.crunchbase.com/organization/aon3d,https://www.linkedin.com/company/aon3d/,,,https://www.facebook.com/aon3dinc,
+Vinebox,https://www.crunchbase.com/organization/vinebox,https://www.linkedin.com/company/vinebox,,,https://www.facebook.com/getVINEBOX,
+Zenysis,https://www.crunchbase.com/organization/zenysis,https://www.linkedin.com/company/zenysis-technologies,,,,0
+Cityfurnish,https://www.crunchbase.com/organization/cityfurnish,https://www.linkedin.com/company/cityfurnish?trk=biz-companies-cym,,,https://www.facebook.com/cityFurnishRental,
+GoLorry,https://www.crunchbase.com/organization/golorry,https://www.linkedin.com/company/golorry/,,,,0
+Invofox,https://www.crunchbase.com/organization/invofox,https://www.linkedin.com/company/invofox,,,,0
+Gas Pos,https://www.crunchbase.com/organization/gas-pos-inc,https://www.linkedin.com/company/gas-pos/,,,https://www.facebook.com/GasPos.co/,
+Amberbox Gunshot Detection,https://www.crunchbase.com/organization/amberbox,https://www.linkedin.com/company/10798761/,,,https://www.facebook.com/AmberBoxGunshotDetection/,
+Switchboard,https://www.crunchbase.com/organization/switchboard-5db1,https://www.linkedin.com/company/switchboard/,,,https://www.facebook.com/Switchboard/,
+AnnieCannons,https://www.crunchbase.com/organization/anniecannons,https://www.linkedin.com/company/anniecannons/,,,https://www.facebook.com/anniecannons,
+Fetch,https://www.crunchbase.com/organization/fetch-6,https://www.linkedin.com/company-beta/15180048/,,,,0
+PredictLeads,https://www.crunchbase.com/organization/predictleads,https://www.linkedin.com/company/predictleads/,,,,0
+Bloomberg Second Measure,https://www.crunchbase.com/organization/second-measure,https://www.linkedin.com/company/second-measure,,,https://www.facebook.com/secondmeasure/,
+PhysioHealth,https://www.crunchbase.com/organization/physiohealth,https://www.linkedin.com/company/physioh-inc-/,,,https://www.facebook.com/wellbithabit/,
+Shelf Engine,https://www.crunchbase.com/organization/shelf-engine,https://www.linkedin.com/company/shelf-engine/,,,https://www.facebook.com/shelfengine/,
+PaveAI,https://www.crunchbase.com/organization/paveiq,https://www.linkedin.com/company/pave-analytics,,,https://www.facebook.com/paveai/,
+Intact Therapeutics,https://www.crunchbase.com/organization/intact-therapeutics,https://www.linkedin.com/company/intact-therapeutics/,,,,0
+Quantierra,https://www.crunchbase.com/organization/quantierra,,0,0,,0
+StrongIntro,https://www.crunchbase.com/organization/strongintro,https://www.linkedin.com/company/strongintro,,,https://www.facebook.com/strongintro,
+Battlecard,https://www.crunchbase.com/organization/battlecard,,0,0,,0
+Elucify,https://www.crunchbase.com/organization/elucify,https://www.linkedin.com/company/getelucify,,,https://www.facebook.com/getelucify,
+Chillabit,https://www.crunchbase.com/organization/chillabit,https://www.linkedin.com/company/chillabit-yc-w16-,,,https://www.facebook.com/justchillabit,
+Cambridge Mask Co,https://www.crunchbase.com/organization/cambridge-mask,https://www.linkedin.com/company/cambridge-mask-co/?originalSubdomain=kw,,,https://www.facebook.com/cambridgemaskco,
+Unnyhog,https://www.crunchbase.com/organization/unnyhog,https://www.linkedin.com/company/unnyhog,,,https://www.facebook.com/pg/unnyhog,
+Bot Orange,https://www.crunchbase.com/organization/bot-orange,https://www.linkedin.com/company/bot-orange/,,,,0
+Monthli,https://www.crunchbase.com/organization/monthli,https://www.linkedin.com/company/monthli/?originalSubdomain=in,,,,0
+Supr Daily,https://www.crunchbase.com/organization/supr-daily,https://www.linkedin.com/company/suprdaily/,,,https://www.facebook.com/suprdaily/,
+Appcanary,https://www.crunchbase.com/organization/appcanary,https://www.linkedin.com/company/appcanary,,,,0
+X-ZELL,https://www.crunchbase.com/organization/x-zell,https://www.linkedin.com/company/xzell,,,,0
+Nexu,https://www.crunchbase.com/organization/nexu,https://www.linkedin.com/company/nexu-mx,,,https://www.facebook.com/nexumx,
+TetraScience,https://www.crunchbase.com/organization/tetrascience-inc-,https://www.linkedin.com/company/tetrascience,,,https://facebook.com/tetrascienceinc,
+Meter Feeder,https://www.crunchbase.com/organization/meterfeeder,https://www.linkedin.com/company/meter-feeder-inc,,,https://www.facebook.com/meterfeeder.inc,
+PAKIBLE,https://www.crunchbase.com/organization/pakible,https://www.linkedin.com/company/pakible,,,https://www.facebook.com/GetPakible,
+CareSkore,https://www.crunchbase.com/organization/careskore,https://www.linkedin.com/company/care-skore,,,https://www.facebook.com/careskore,
+Boom Supersonic,https://www.crunchbase.com/organization/boom-technology,https://www.linkedin.com/company/boom-technology-inc.,,,https://www.facebook.com/boomsupersonic,
+Mashgin,https://www.crunchbase.com/organization/mashgin,https://www.linkedin.com/company/mashgin,,,https://www.facebook.com/mashgin,
+Bodyport,https://www.crunchbase.com/organization/bodyport,https://www.linkedin.com/company/bodyport-inc.,,,https://www.facebook.com/bodyportinc,
+Gemnote,https://www.crunchbase.com/organization/gemnote,https://www.linkedin.com/company/gemnote,,,https://www.facebook.com/gemnotegifts,
+Docbot,https://www.crunchbase.com/organization/docbot,https://www.linkedin.com/company/docbot-ai,,,https://www.facebook.com/DocbotAI,
+UpKeep,https://www.crunchbase.com/organization/upkeep-maintenance-management,https://www.linkedin.com/company/upkeep-maintenance-management/,,,https://www.facebook.com/onupkeep,
+Termii,https://www.crunchbase.com/organization/termii-networks,https://www.linkedin.com/company/termii-networks/,,,http://www.facebook.com/termiinetworks,
+Prolific,https://www.crunchbase.com/organization/prolific-academic,https://www.linkedin.com/company/prolific-academic,,,https://www.facebook.com/prolificac,
+Castle,https://www.crunchbase.com/organization/castle,https://www.linkedin.com/company/castle-for-landlords/,,,,0
+Magic Instruments,https://www.crunchbase.com/organization/magic-instruments,https://www.linkedin.com/company/magic-instruments,,,http://facebook.com/magicinstruments,
+Impraise,https://www.crunchbase.com/organization/impraise,http://www.linkedin.com/company/3071405,,,http://www.facebook.com/impraiseapp,
+Clara Labs,https://www.crunchbase.com/organization/clara-labs,https://www.linkedin.com/company/clara-labs/,,,https://www.facebook.com/ClaraLabsInc/,
+Instabug,https://www.crunchbase.com/organization/instabug,https://www.linkedin.com/company/3047747,,,https://www.facebook.com/pg/Instabug,
+Flip,https://www.crunchbase.com/organization/flip-2,,0,0,https://www.facebook.com/justflipit,
+Perlara,https://www.crunchbase.com/organization/perlstein-lab,http://www.linkedin.com/company/perlstein-lab,,,https://www.facebook.com/PerlaraPBC,
+AdvantageClub.ai,https://www.crunchbase.com/organization/advantage-club,https://www.linkedin.com/company/work-advantage,,,https://www.facebook.com/advantageclubindia,
+Universe,https://www.crunchbase.com/organization/universe-2,https://www.linkedin.com/company/universe-,,,https://www.facebook.com/onuniverseapp,
+Plate IQ,https://www.crunchbase.com/organization/plate-iq,https://www.linkedin.com/company/plateiq,,,https://www.facebook.com/plateiq,
+ReadMe,https://www.crunchbase.com/organization/readme-io,https://www.linkedin.com/company/readme-io,,,https://www.facebook.com/readmeio,
+TrueClaim,https://www.crunchbase.com/organization/trueclaim-ff70,https://www.linkedin.com/company/trytrueclaim,,,,0
+Reach,https://www.crunchbase.com/organization/reach-labs-f7b1,https://www.linkedin.com/company/reach-power,,,,0
+Garten,https://www.crunchbase.com/organization/garten,https://www.linkedin.com/company/garten/,,,https://www.facebook.com/getgarten,
+iMicrobes,https://www.crunchbase.com/organization/industrial-microbes,https://www.linkedin.com/company/3693772,,,,0
+Pachyderm,https://www.crunchbase.com/organization/pachyderm,https://www.linkedin.com/company/pachyderm-inc-,,,https://www.facebook.com/pachydermIO,
+SimpleCitizen,https://www.crunchbase.com/organization/simplecitizen,https://www.linkedin.com/company/simplecitizen,,,https://www.facebook.com/simplecitizenus,
+Porter,https://www.crunchbase.com/organization/porter-0eee,https://www.linkedin.com/company/getporter/,,,,0
+Entocycle,https://www.crunchbase.com/organization/entocycle,https://www.linkedin.com/company/entocycle/,,,https://www.facebook.com/entocycle,
+AgendaPro,https://www.crunchbase.com/organization/agendapro,https://www.linkedin.com/company/agendapro,,,https://www.facebook.com/agendapro?ref=br_tf,
+Kenota Health,https://www.crunchbase.com/organization/exvivo-labs,https://www.linkedin.com/company/kenotahealth/,,,https://www.facebook.com/KenotaHealth/,
+Pathmind,https://www.crunchbase.com/organization/pathmind,https://www.linkedin.com/company/37560379/,,,https://www.facebook.com/pathmind/,
+Koko,https://www.crunchbase.com/organization/koko-3,https://www.linkedin.com/company/kokoai/,,,https://www.facebook.com/kokocares,
+Bus.com,https://www.crunchbase.com/organization/busdotcom,https://ca.linkedin.com/company/buscom,,,https://www.facebook.com/buscomhq/,
+Tenjin,https://www.crunchbase.com/organization/tenjin,https://www.linkedin.com/company/tenjin,,,https://www.facebook.com/tenjinio/,
+Skymind,https://www.crunchbase.com/organization/skymind,https://www.linkedin.com/company/skymindinc/,,,https://www.facebook.com/Skymind-106964190806104/,
+LiftIgniter,https://www.crunchbase.com/organization/liftigniter,https://www.linkedin.com/company/liftigniter,,,https://www.facebook.com/liftigniter/,
+MineralSoft,https://www.crunchbase.com/organization/mineralsoft,https://www.linkedin.com/company/mineralsoft,,,https://www.facebook.com/mineralsoft,
+UpLabs,https://www.crunchbase.com/organization/materialup,https://www.linkedin.com/company/officialuplabs,,,http://www.facebook.com/materialup,
+ExceptionALLY,https://www.crunchbase.com/organization/exceptionally,https://www.linkedin.com/company/exceptionally/,,,https://www.facebook.com/Growexceptionally,
+Paribus,https://www.crunchbase.com/organization/paribus,https://www.linkedin.com/company/paribus-co-,,,https://www.facebook.com/paribusco,
+Paid,https://www.crunchbase.com/organization/paid,https://www.linkedin.com/company/paid/,,,https://www.facebook.com/paidlabs,
+STYLEBEE,https://www.crunchbase.com/organization/stylebee,https://www.linkedin.com/company/stylebee,,,http://www.facebook.com/StyleBeeBeauty,
+Lynks,https://www.crunchbase.com/organization/lynks,https://www.linkedin.com/company/10496868/,,,http://www.facebook.com/LynksEgypt,
+LendEDU,https://www.crunchbase.com/organization/shoptutors,https://www.linkedin.com/company/lendedu/,,,https://www.facebook.com/lendedu,
+Covetly,https://www.crunchbase.com/organization/covetly,https://www.linkedin.com/company-beta/10011493/,,,https://www.facebook.com/pg/covetly,
+Suiteness,https://www.crunchbase.com/organization/suiteness,http://www.linkedin.com/company/suiteness,,,http://www.facebook.com/pages/Suiteness/351617984848677,
+Placenote,https://www.crunchbase.com/organization/vertical-2,https://www.linkedin.com/company/placenotesdk,,,https://www.facebook.com/placenote,
+Lully,https://www.crunchbase.com/organization/lully,https://www.linkedin.com/company/3838757,,,https://www.facebook.com/lullysleep,
+Parenthoods,https://www.crunchbase.com/organization/parenthoods,https://www.linkedin.com/company/parenthoods/,,,https://www.facebook.com/parenthoods/,
