@@ -45,13 +45,18 @@ El algoritmo **K-Means**, con un valor de **K = 2**, proporcionó la mejor combi
 1. **Startups en etapa temprana**: bajos niveles de inversión y tracción digital.  
 2. **Startups en etapa de crecimiento**: mayor financiamiento, equipos consolidados y fuerte presencia en redes profesionales.
 
-## 📊 Visualización de Clústeres
+## 📊 Visualización de Clústeres con K-Means
 
-## 📊 Visualización de Clústeres: K-Means con t-SNE
+### t-SNE
 
-![Visualización K-Means t-SNE](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparativa_grafica_pca_tsne/k_means_tsne.png)
+![K-Means t-SNE](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparativa_grafica_pca_tsne/k_means_tsne.png)
 
-*Figura: Agrupamiento con K-Means (K=2) visualizado mediante t-SNE.*
+### PCA
+
+![K-Means PCA](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparativa_grafica_pca_tsne/k_means_pca.png)
+
+*Figuras: Representaciones visuales del agrupamiento con K-Means (K=2) usando t-SNE y PCA, respectivamente.*
+
 
 
 
