@@ -1,4 +1,5 @@
-# Análisis de Factores de Riesgo en Startups Tecnológicas con Aprendizaje No Supervisado
+# Aplicación de Machine Learning Para el Análisis de Riesgos en Startups Tecnológicas
+
 
 ## 📌 Objetivo del Estudio
 
