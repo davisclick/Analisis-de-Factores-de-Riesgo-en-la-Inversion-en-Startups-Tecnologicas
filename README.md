@@ -5,6 +5,6 @@ Welcome! This project applies unsupervised machine learning techniques to identi
 ---
 
 <p align="right">
-  🇪🇸 <a href="README.es.md">Ver en Español</a> | 
-  🇬🇧 <a href="README.en.md">View in English</a>
+  ES <a href="README.es.md">Ver en Español</a> | 
+ ENG <a href="README.en.md">View in English</a>
 </p>
