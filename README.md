@@ -33,6 +33,23 @@ Se emplearon métricas de validación interna para evaluar la calidad de los agr
 - Índice de **Calinski-Harabasz**  
 - Índice de **Davies-Bouldin**
 
+## 📈 Evaluación de Clústeres: Métricas Internas
+
+### Silhouette Score
+
+![Silhouette Score](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparatica_grafica_mejor_K/silhouette_score.png)
+
+### Calinski-Harabasz Index
+
+![Calinski-Harabasz Index](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparatica_grafica_mejor_K/calinski_harabasz_index.png)
+
+### Davies-Bouldin Index
+
+![Davies-Bouldin Index](https://github.com/davisclick/Analisis-de-Factores-de-Riesgo-en-la-Inversion-en-Startups-Tecnologicas/raw/main/comparatica_grafica_mejor_K/davies_bouldin_index.png)
+
+*Figuras: Comparación de métricas internas para distintos valores de K.*
+
+
 Además, se utilizaron técnicas de reducción de dimensionalidad para la visualización de los resultados:
 
 - **PCA (Principal Component Analysis)**  
