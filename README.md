@@ -58,5 +58,5 @@ Este estudio demuestra que es viable utilizar modelos no supervisados para segme
 - PCA / t-SNE  
 - Pandas / NumPy
 
-## 📁 Estructura del repositorio
+
 
